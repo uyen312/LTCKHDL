@@ -1,0 +1,1001 @@
+Income,Profession,Platform,Total Time Spent,Number of Sessions,Video Category,Importance Score,Time Spent On Video,Number of Videos Watched,Frequency,ProductivityLoss,Satisfaction,Watch Reason,Self Control,Addiction Level,CurrentActivity,Female,Male,Age Group
+82812,Engineer,Instagram,80,17,Pranks,5,26,22,Night,3,7,Procrastination,5,5,Commuting,False,True,3
+27999,Artist,Instagram,228,14,Pranks,6,25,31,Afternoon,5,5,Habit,7,3,At school,True,False,3
+42436,Engineer,Facebook,30,6,Vlogs,3,9,7,Evening,6,4,Entertainment,8,2,At home,True,False,2
+62963,Waiting staff,YouTube,101,19,Vlogs,2,6,41,Night,3,7,Habit,5,5,Commuting,False,True,4
+22096,Manager,TikTok,136,6,Gaming,7,13,21,Morning,8,2,Boredom,10,0,At home,False,True,2
+45279,driver,Instagram,89,18,Jokes/Memes,5,27,16,Night,3,7,Entertainment,5,5,At home,False,True,2
+46201,Students,TikTok,247,5,Vlogs,9,22,20,Morning,8,2,Habit,10,0,At school,False,True,3
+39715,Engineer,Instagram,191,6,Entertainment,3,28,43,Night,3,7,Entertainment,5,5,At home,False,True,2
+49309,Waiting staff,Instagram,34,2,Vlogs,8,20,44,Night,3,7,Entertainment,5,5,At home,False,True,2
+35078,Students,YouTube,165,8,ASMR,6,4,47,Evening,6,4,Boredom,8,2,At home,False,False,2
+76614,Manager,Instagram,14,15,Pranks,4,2,19,Afternoon,5,5,Boredom,7,3,At home,False,True,2
+25105,Labor/Worker,TikTok,129,15,Life Hacks,9,26,48,Evening,6,4,Habit,8,2,At home,False,False,2
+22839,Waiting staff,Instagram,286,11,Gaming,5,4,32,Afternoon,5,5,Habit,7,3,At school,False,True,3
+88920,Waiting staff,Facebook,27,1,Vlogs,6,8,15,Evening,6,4,Entertainment,8,2,Commuting,False,True,3
+63619,Cashier,YouTube,207,18,Gaming,9,13,5,Evening,6,4,Boredom,8,2,At school,False,False,2
+62821,Students,YouTube,66,12,Entertainment,7,10,11,Evening,6,4,Entertainment,8,2,At school,True,False,1
+33493,Waiting staff,Facebook,102,12,ASMR,5,18,15,Afternoon,5,5,Habit,7,3,At home,True,False,2
+37069,Students,Facebook,28,11,ASMR,2,9,29,Evening,6,4,Habit,8,2,At home,True,False,1
+27531,Labor/Worker,Facebook,202,8,Pranks,4,1,45,Evening,6,4,Entertainment,8,2,At work,False,False,2
+57051,Labor/Worker,Instagram,246,7,Vlogs,2,13,4,Morning,8,2,Habit,10,0,At work,False,True,4
+27736,Waiting staff,YouTube,286,2,Vlogs,3,18,49,Afternoon,5,5,Habit,7,3,Commuting,False,True,3
+27710,driver,Facebook,236,11,Entertainment,3,15,36,Afternoon,5,5,Boredom,7,3,Commuting,False,True,3
+87155,Students,Instagram,242,10,Entertainment,4,2,48,Night,3,7,Boredom,5,5,At work,True,False,1
+33975,Waiting staff,Facebook,49,3,Pranks,6,11,23,Evening,6,4,Habit,8,2,At home,True,False,2
+82424,Waiting staff,TikTok,162,10,Jokes/Memes,3,29,15,Evening,6,4,Boredom,8,2,At home,False,True,3
+65603,Labor/Worker,TikTok,136,18,Jokes/Memes,1,14,46,Afternoon,5,5,Entertainment,7,3,At school,False,True,2
+43252,Students,YouTube,246,14,Gaming,1,22,44,Evening,6,4,Habit,8,2,Commuting,False,True,2
+21431,Manager,Instagram,64,18,Life Hacks,9,15,3,Night,3,7,Habit,5,5,At home,False,False,4
+94603,Labor/Worker,TikTok,181,8,Entertainment,9,14,32,Evening,6,4,Boredom,8,2,At work,True,False,2
+57481,driver,TikTok,118,10,Pranks,5,16,10,Evening,6,4,Entertainment,8,2,At home,False,True,2
+29557,driver,Instagram,193,13,Pranks,9,23,40,Morning,8,2,Habit,10,0,At school,False,True,3
+94971,Students,Facebook,207,8,Jokes/Memes,7,29,38,Afternoon,5,5,Habit,7,3,At home,False,True,3
+20162,Labor/Worker,Instagram,96,4,Trends,9,15,22,Night,3,7,Boredom,5,5,Commuting,False,True,2
+54742,Waiting staff,Facebook,210,4,Trends,7,19,14,Evening,6,4,Entertainment,8,2,At work,False,False,2
+39675,Students,TikTok,284,5,Entertainment,9,27,17,Evening,6,4,Entertainment,8,2,At school,True,False,4
+93997,Students,TikTok,220,1,Jokes/Memes,2,9,21,Night,3,7,Procrastination,5,5,At home,False,False,4
+37015,Labor/Worker,TikTok,127,17,Entertainment,8,5,48,Night,3,7,Entertainment,5,5,At home,False,True,1
+70057,Students,YouTube,200,2,Jokes/Memes,7,5,15,Afternoon,5,5,Boredom,7,3,At school,False,True,3
+52591,Cashier,YouTube,51,8,Jokes/Memes,6,11,15,Night,3,7,Habit,5,5,At home,False,True,1
+29833,Students,YouTube,51,7,ASMR,5,28,1,Afternoon,5,5,Boredom,7,3,Commuting,False,True,2
+27896,Waiting staff,Instagram,285,15,Comedy,4,20,24,Evening,6,4,Boredom,8,2,At work,False,True,2
+52972,Students,TikTok,26,5,ASMR,7,25,12,Evening,6,4,Habit,8,2,At school,False,True,3
+69733,Cashier,TikTok,292,2,Life Hacks,3,24,10,Morning,8,2,Entertainment,10,0,At home,False,False,2
+61800,Waiting staff,Instagram,267,7,Gaming,8,28,46,Night,3,7,Entertainment,5,5,At school,True,False,1
+25347,Labor/Worker,YouTube,72,8,Gaming,2,4,42,Evening,6,4,Boredom,8,2,Commuting,False,False,2
+79063,Waiting staff,Instagram,71,7,Comedy,1,20,42,Evening,6,4,Procrastination,8,2,At home,True,False,2
+22643,Labor/Worker,YouTube,109,7,Trends,2,18,31,Afternoon,5,5,Procrastination,7,3,At school,False,True,2
+60785,Students,TikTok,28,14,Pranks,9,25,11,Night,3,7,Entertainment,5,5,At work,False,True,2
+38681,Students,Facebook,26,18,Trends,5,3,16,Evening,6,4,Boredom,8,2,At school,True,False,1
+70026,Students,YouTube,255,6,Life Hacks,8,4,9,Afternoon,5,5,Procrastination,7,3,At home,False,True,2
+35892,Waiting staff,TikTok,260,4,Entertainment,3,14,47,Afternoon,5,5,Entertainment,7,3,At home,True,False,3
+67299,driver,TikTok,90,10,Entertainment,7,7,14,Evening,6,4,Entertainment,8,2,At home,False,False,4
+37073,Students,Facebook,48,18,Pranks,2,26,19,Evening,6,4,Boredom,8,2,Commuting,False,True,1
+50682,driver,TikTok,45,12,Trends,8,8,31,Afternoon,5,5,Procrastination,7,3,At work,False,True,4
+34289,Cashier,TikTok,206,16,Life Hacks,7,24,9,Evening,6,4,Habit,8,2,At home,False,False,2
+27927,Manager,YouTube,167,7,Life Hacks,5,16,36,Night,3,7,Boredom,5,5,At home,False,True,4
+68330,Labor/Worker,YouTube,213,6,Jokes/Memes,4,20,39,Afternoon,5,5,Entertainment,7,3,At school,False,True,3
+86707,Waiting staff,Facebook,205,5,Entertainment,1,15,26,Afternoon,5,5,Habit,7,3,At home,False,True,2
+97454,Waiting staff,Facebook,225,3,Vlogs,5,7,8,Night,3,7,Entertainment,5,5,At school,False,True,2
+85428,driver,TikTok,294,12,Life Hacks,9,26,24,Night,3,7,Habit,5,5,At home,False,True,3
+70601,driver,YouTube,205,15,Entertainment,4,17,8,Afternoon,5,5,Entertainment,7,3,At home,True,False,3
+97465,Waiting staff,Facebook,161,10,Jokes/Memes,9,22,19,Afternoon,5,5,Procrastination,7,3,Commuting,False,False,1
+22539,Waiting staff,Facebook,23,19,Entertainment,2,22,47,Evening,6,4,Habit,8,2,At school,False,True,1
+42669,Students,Instagram,155,16,ASMR,4,22,48,Evening,6,4,Boredom,8,2,Commuting,False,True,1
+90968,Teacher,Facebook,66,11,Life Hacks,9,12,30,Afternoon,5,5,Entertainment,7,3,At school,False,True,3
+40644,Teacher,TikTok,220,8,Life Hacks,4,18,22,Afternoon,5,5,Habit,7,3,At home,False,False,1
+38745,Cashier,YouTube,277,3,Gaming,5,24,9,Evening,6,4,Boredom,8,2,Commuting,False,False,3
+48228,Students,Facebook,219,7,Trends,8,14,44,Evening,6,4,Boredom,8,2,At home,False,True,2
+54521,Artist,Instagram,26,7,Life Hacks,1,15,48,Night,3,7,Habit,5,5,At home,False,True,2
+46928,Students,YouTube,295,14,Gaming,1,15,4,Evening,6,4,Habit,8,2,At home,True,False,4
+38322,Students,Facebook,212,2,Pranks,9,5,37,Afternoon,5,5,Entertainment,7,3,At school,True,False,3
+77714,Labor/Worker,Instagram,108,10,Life Hacks,9,16,8,Night,3,7,Boredom,5,5,At home,False,True,2
+82292,Engineer,Facebook,288,19,Comedy,4,5,1,Evening,6,4,Entertainment,8,2,At school,False,True,3
+49055,Waiting staff,YouTube,218,9,Jokes/Memes,2,2,28,Night,3,7,Boredom,5,5,At home,True,False,2
+62891,driver,YouTube,138,16,Jokes/Memes,9,20,6,Night,3,7,Procrastination,5,5,At school,False,False,3
+26588,Labor/Worker,YouTube,297,19,Jokes/Memes,4,28,47,Night,3,7,Habit,5,5,At home,False,True,2
+26304,driver,TikTok,261,18,Pranks,6,25,36,Night,3,7,Procrastination,5,5,Commuting,True,False,2
+27345,Labor/Worker,Facebook,274,9,Life Hacks,1,9,11,Afternoon,5,5,Procrastination,7,3,Commuting,False,True,2
+49300,Labor/Worker,TikTok,280,16,Vlogs,9,22,5,Evening,6,4,Boredom,8,2,At school,False,False,2
+44259,driver,YouTube,197,13,Jokes/Memes,5,27,24,Night,3,7,Habit,5,5,At school,False,True,3
+35352,driver,Instagram,223,10,Gaming,3,9,47,Evening,6,4,Habit,8,2,At home,False,True,2
+53365,Labor/Worker,Facebook,292,14,Jokes/Memes,4,4,18,Afternoon,5,5,Entertainment,7,3,At school,False,True,2
+39446,Students,TikTok,220,12,Pranks,1,15,20,Evening,6,4,Entertainment,8,2,Commuting,False,True,4
+22336,Waiting staff,Facebook,85,19,Entertainment,9,11,28,Afternoon,5,5,Boredom,7,3,At work,False,True,2
+82032,Labor/Worker,Instagram,157,7,Jokes/Memes,8,1,13,Night,3,7,Boredom,5,5,At home,False,True,4
+95415,Waiting staff,TikTok,222,15,Life Hacks,4,18,5,Night,3,7,Entertainment,5,5,At home,False,False,2
+27521,Engineer,YouTube,118,16,Trends,2,29,30,Night,3,7,Habit,5,5,At home,True,False,2
+91707,Manager,TikTok,138,8,Life Hacks,9,1,1,Night,3,7,Entertainment,5,5,At home,False,False,2
+43481,Students,Facebook,19,10,Jokes/Memes,4,8,22,Night,3,7,Boredom,5,5,At work,True,False,4
+38474,Waiting staff,Facebook,56,4,Jokes/Memes,9,25,18,Night,3,7,Entertainment,5,5,At school,True,False,3
+66760,Waiting staff,Facebook,105,19,Jokes/Memes,3,16,46,Afternoon,5,5,Boredom,7,3,At school,False,True,3
+75718,Students,Facebook,112,19,Jokes/Memes,7,26,5,Night,3,7,Boredom,5,5,Commuting,False,True,2
+64629,Students,YouTube,155,15,Trends,7,28,31,Night,3,7,Habit,5,5,At school,True,False,4
+65232,driver,TikTok,36,14,Vlogs,4,22,6,Night,3,7,Boredom,5,5,At work,False,True,1
+87169,Manager,YouTube,229,1,Life Hacks,2,18,27,Evening,6,4,Habit,8,2,At work,False,False,2
+70669,Students,YouTube,27,16,Jokes/Memes,9,22,25,Morning,8,2,Habit,10,0,At home,False,False,1
+98021,Students,YouTube,176,10,ASMR,4,9,29,Evening,6,4,Boredom,8,2,At home,False,True,2
+89184,Waiting staff,Facebook,91,19,Jokes/Memes,8,12,28,Afternoon,5,5,Entertainment,7,3,At work,True,False,2
+67945,Engineer,Facebook,81,3,ASMR,2,19,16,Night,3,7,Entertainment,5,5,At work,False,True,1
+33140,Waiting staff,Facebook,263,5,Pranks,8,25,12,Evening,6,4,Boredom,8,2,At home,True,False,4
+34357,Engineer,TikTok,171,9,Vlogs,5,18,20,Afternoon,5,5,Boredom,7,3,At work,False,True,2
+88673,Waiting staff,Instagram,47,18,Jokes/Memes,7,27,18,Night,3,7,Boredom,5,5,Commuting,False,True,2
+85633,Engineer,Facebook,210,11,Jokes/Memes,7,5,34,Night,3,7,Entertainment,5,5,At school,False,True,2
+96943,Engineer,TikTok,209,16,Gaming,9,27,23,Night,3,7,Habit,5,5,At work,True,False,2
+98258,driver,Facebook,264,2,Gaming,3,2,45,Night,3,7,Habit,5,5,At home,True,False,2
+32924,Labor/Worker,Facebook,188,12,Comedy,4,7,27,Evening,6,4,Entertainment,8,2,At home,False,True,3
+89286,Labor/Worker,YouTube,44,6,Jokes/Memes,4,27,49,Night,3,7,Habit,5,5,At home,True,False,3
+94071,Waiting staff,YouTube,91,11,Pranks,5,10,17,Night,3,7,Entertainment,5,5,At work,False,True,3
+77326,Artist,YouTube,229,8,Gaming,6,15,48,Evening,6,4,Entertainment,8,2,At home,False,True,1
+50651,Labor/Worker,TikTok,167,12,Jokes/Memes,3,25,21,Night,3,7,Procrastination,5,5,At work,False,True,3
+90202,Waiting staff,Instagram,13,2,Jokes/Memes,4,7,40,Night,3,7,Entertainment,5,5,At home,True,False,3
+68777,Labor/Worker,Instagram,176,9,Pranks,3,28,31,Evening,6,4,Habit,8,2,At home,True,False,3
+36994,Labor/Worker,TikTok,213,15,Jokes/Memes,2,5,3,Evening,6,4,Procrastination,8,2,At work,True,False,3
+87263,Teacher,Facebook,203,2,Jokes/Memes,9,15,17,Evening,6,4,Boredom,8,2,At home,False,True,1
+79634,Students,TikTok,244,1,Entertainment,1,20,26,Night,3,7,Habit,5,5,At school,False,True,2
+30800,Students,Facebook,215,10,Life Hacks,2,28,23,Night,3,7,Boredom,5,5,At school,False,True,2
+57823,Cashier,TikTok,159,2,Entertainment,8,20,6,Evening,6,4,Habit,8,2,At work,True,False,2
+83878,driver,TikTok,168,12,Life Hacks,7,15,28,Evening,6,4,Habit,8,2,At work,False,True,3
+38708,Labor/Worker,TikTok,288,8,Life Hacks,1,10,8,Evening,6,4,Habit,8,2,At work,False,False,3
+32819,Engineer,Instagram,175,5,Gaming,5,24,45,Night,3,7,Habit,5,5,At home,True,False,2
+94905,Labor/Worker,YouTube,77,1,Life Hacks,6,26,8,Night,3,7,Habit,5,5,At work,False,False,2
+83870,Labor/Worker,TikTok,97,15,Gaming,5,29,19,Night,3,7,Habit,5,5,At home,False,False,3
+29283,Artist,Instagram,226,6,Trends,4,26,38,Evening,6,4,Habit,8,2,Commuting,True,False,3
+50573,Waiting staff,YouTube,10,12,Comedy,1,14,29,Evening,6,4,Boredom,8,2,At home,False,False,4
+98707,driver,YouTube,144,8,ASMR,7,26,23,Night,3,7,Boredom,5,5,At home,False,True,3
+50933,driver,TikTok,194,13,Gaming,9,26,47,Evening,6,4,Entertainment,8,2,At school,True,False,2
+25774,Cashier,Facebook,149,19,Pranks,6,10,32,Night,3,7,Habit,5,5,At school,True,False,2
+92055,Labor/Worker,Facebook,115,1,Pranks,3,17,10,Night,3,7,Boredom,5,5,At school,False,True,3
+30983,Waiting staff,Facebook,142,11,Vlogs,4,21,27,Afternoon,5,5,Entertainment,7,3,At school,False,False,1
+38133,Students,TikTok,117,1,Jokes/Memes,5,14,49,Evening,6,4,Habit,8,2,At home,True,False,3
+34939,driver,Facebook,187,8,Vlogs,1,2,1,Evening,6,4,Habit,8,2,At home,False,True,3
+20781,Artist,Instagram,155,5,Life Hacks,5,16,39,Night,3,7,Procrastination,5,5,At home,False,True,4
+76700,Waiting staff,Instagram,83,17,ASMR,1,13,29,Night,3,7,Entertainment,5,5,Commuting,True,False,2
+47624,Students,Instagram,117,8,Vlogs,9,27,45,Afternoon,5,5,Entertainment,7,3,At school,False,True,1
+26823,driver,Instagram,131,10,Entertainment,7,9,3,Afternoon,5,5,Procrastination,7,3,At home,True,False,1
+38489,Manager,YouTube,26,2,Life Hacks,3,7,47,Evening,6,4,Entertainment,8,2,At home,True,False,1
+59961,Cashier,Instagram,205,9,Trends,9,16,37,Night,3,7,Boredom,5,5,At home,True,False,2
+49118,Labor/Worker,Facebook,261,3,Entertainment,2,10,31,Night,3,7,Entertainment,5,5,At work,True,False,2
+42263,Students,TikTok,128,18,Life Hacks,7,24,11,Morning,8,2,Boredom,10,0,Commuting,False,True,3
+33565,Students,Facebook,171,7,Life Hacks,9,22,22,Afternoon,5,5,Procrastination,7,3,At school,False,True,2
+40354,Students,Instagram,207,15,Jokes/Memes,6,9,18,Afternoon,5,5,Habit,7,3,At work,True,False,2
+62951,Engineer,YouTube,54,18,Gaming,5,22,35,Evening,6,4,Procrastination,8,2,At home,False,True,2
+43648,Engineer,Instagram,188,3,Life Hacks,7,23,6,Evening,6,4,Habit,8,2,At school,True,False,2
+70729,Engineer,TikTok,53,14,Pranks,6,7,3,Night,3,7,Entertainment,5,5,Commuting,True,False,2
+61971,Waiting staff,Facebook,280,2,Life Hacks,5,16,5,Morning,8,2,Entertainment,10,0,At work,False,True,3
+38658,Engineer,TikTok,87,14,Life Hacks,2,9,9,Evening,6,4,Habit,8,2,Commuting,False,False,2
+41253,Waiting staff,TikTok,187,11,Life Hacks,8,27,28,Night,3,7,Procrastination,5,5,At work,False,True,3
+84166,Labor/Worker,TikTok,12,16,Jokes/Memes,7,24,19,Morning,8,2,Procrastination,10,0,At home,False,True,3
+68563,Engineer,Facebook,223,8,Vlogs,6,29,28,Evening,6,4,Boredom,8,2,At home,False,False,3
+46390,Cashier,Instagram,83,7,Trends,5,17,27,Evening,6,4,Habit,8,2,At school,False,True,1
+71578,Artist,TikTok,60,11,Entertainment,5,20,13,Afternoon,5,5,Habit,7,3,At home,False,False,3
+99025,driver,Facebook,76,3,Gaming,9,7,38,Night,3,7,Habit,5,5,At home,False,True,3
+52658,Students,YouTube,102,17,Life Hacks,1,11,43,Evening,6,4,Entertainment,8,2,At home,False,True,2
+26852,Waiting staff,Facebook,185,14,Trends,9,8,21,Afternoon,5,5,Habit,7,3,At home,False,False,3
+22551,Students,YouTube,154,6,Entertainment,6,7,27,Night,3,7,Boredom,5,5,At school,False,True,4
+91947,Students,Facebook,16,8,Vlogs,4,28,46,Afternoon,5,5,Boredom,7,3,At home,False,True,2
+81001,Students,Instagram,278,5,Pranks,7,19,6,Night,3,7,Boredom,5,5,At work,True,False,4
+69159,driver,TikTok,13,8,Pranks,9,20,38,Night,3,7,Boredom,5,5,At school,False,False,3
+71707,Manager,Instagram,147,2,Jokes/Memes,5,12,49,Evening,6,4,Procrastination,8,2,At school,True,False,3
+53243,Students,Facebook,240,15,Jokes/Memes,5,7,11,Evening,6,4,Entertainment,8,2,Commuting,False,False,2
+41800,Waiting staff,TikTok,97,12,Life Hacks,8,8,47,Afternoon,5,5,Entertainment,7,3,At work,False,True,3
+95939,Labor/Worker,YouTube,26,17,Trends,7,7,41,Afternoon,5,5,Habit,7,3,At home,False,True,1
+77828,Students,Facebook,61,1,Gaming,8,6,17,Night,3,7,Boredom,5,5,At work,False,False,2
+27239,Manager,TikTok,143,15,Entertainment,2,25,39,Evening,6,4,Entertainment,8,2,At home,False,True,3
+26710,Cashier,YouTube,220,14,Jokes/Memes,9,9,7,Evening,6,4,Boredom,8,2,Commuting,False,True,1
+41384,Engineer,YouTube,228,16,Entertainment,3,27,30,Afternoon,5,5,Entertainment,7,3,At work,False,True,3
+41038,Labor/Worker,Instagram,214,9,Gaming,6,13,21,Evening,6,4,Habit,8,2,At school,False,True,4
+60846,Students,Facebook,220,1,Gaming,6,7,1,Evening,6,4,Entertainment,8,2,At school,False,True,1
+87821,Waiting staff,YouTube,286,17,Trends,2,8,25,Afternoon,5,5,Habit,7,3,At work,True,False,3
+57991,Labor/Worker,TikTok,33,13,Trends,7,22,32,Afternoon,5,5,Entertainment,7,3,At home,True,False,3
+99057,driver,YouTube,13,5,Life Hacks,9,17,8,Afternoon,5,5,Habit,7,3,At school,False,True,4
+26971,Students,YouTube,161,10,Jokes/Memes,1,17,5,Night,3,7,Entertainment,5,5,At work,False,True,4
+49139,Cashier,Instagram,268,6,Entertainment,8,16,30,Night,3,7,Habit,5,5,At work,True,False,2
+97067,Cashier,Instagram,177,19,Gaming,2,22,8,Evening,6,4,Entertainment,8,2,At home,False,True,3
+57711,Students,TikTok,185,13,ASMR,1,2,49,Night,3,7,Entertainment,5,5,Commuting,False,True,2
+26530,Teacher,Instagram,65,1,Life Hacks,8,8,19,Evening,6,4,Habit,8,2,At work,True,False,3
+31116,Waiting staff,YouTube,117,15,ASMR,2,17,44,Morning,8,2,Boredom,10,0,At home,False,True,2
+85794,Labor/Worker,YouTube,150,14,Trends,6,13,30,Evening,6,4,Boredom,8,2,At school,True,False,3
+20282,driver,Instagram,164,8,Trends,6,18,15,Afternoon,5,5,Habit,7,3,At work,False,True,3
+99473,Waiting staff,YouTube,271,10,Vlogs,5,24,36,Afternoon,5,5,Entertainment,7,3,At home,False,False,1
+21898,Engineer,YouTube,282,9,Life Hacks,8,28,44,Evening,6,4,Procrastination,8,2,At school,True,False,2
+24135,driver,TikTok,241,17,Life Hacks,3,22,27,Evening,6,4,Procrastination,8,2,At school,True,False,2
+26629,Labor/Worker,Instagram,250,9,Jokes/Memes,4,28,13,Evening,6,4,Habit,8,2,At school,False,True,3
+85031,Cashier,YouTube,267,3,ASMR,7,10,14,Evening,6,4,Habit,8,2,At school,True,False,1
+53380,Labor/Worker,Instagram,258,11,Pranks,7,2,37,Night,3,7,Entertainment,5,5,At home,False,True,3
+37071,Labor/Worker,TikTok,86,12,Jokes/Memes,8,2,48,Evening,6,4,Entertainment,8,2,At work,False,True,1
+40074,Artist,Instagram,189,10,Entertainment,2,27,30,Afternoon,5,5,Procrastination,7,3,At home,False,True,2
+87843,Waiting staff,YouTube,75,17,Life Hacks,2,14,39,Morning,8,2,Procrastination,10,0,At work,False,True,2
+59901,driver,Instagram,180,17,Entertainment,4,16,47,Morning,8,2,Entertainment,10,0,Commuting,True,False,2
+31205,Teacher,YouTube,31,11,Pranks,9,7,13,Morning,8,2,Habit,10,0,At home,False,True,3
+75661,Engineer,YouTube,116,4,Entertainment,9,21,16,Evening,6,4,Boredom,8,2,At work,False,True,3
+25906,driver,YouTube,236,7,Life Hacks,4,21,44,Evening,6,4,Entertainment,8,2,At home,False,False,3
+22591,Waiting staff,TikTok,225,14,Jokes/Memes,9,24,7,Evening,6,4,Habit,8,2,At home,False,True,4
+82987,Labor/Worker,Instagram,78,7,Vlogs,3,12,48,Afternoon,5,5,Entertainment,7,3,At home,True,False,2
+83370,Teacher,TikTok,93,8,Trends,5,28,27,Evening,6,4,Habit,8,2,At school,False,False,2
+74400,Waiting staff,Instagram,112,1,Life Hacks,9,23,45,Evening,6,4,Habit,8,2,At home,False,True,3
+45150,Waiting staff,TikTok,48,4,Jokes/Memes,6,28,35,Evening,6,4,Habit,8,2,At home,False,True,3
+51852,Manager,Facebook,22,12,Gaming,3,14,15,Night,3,7,Habit,5,5,At work,False,True,2
+62870,Artist,YouTube,190,3,Pranks,9,25,28,Morning,8,2,Boredom,10,0,At home,False,True,3
+72756,Students,YouTube,277,13,Entertainment,6,4,35,Evening,6,4,Boredom,8,2,Commuting,False,True,2
+76481,Labor/Worker,TikTok,22,6,Pranks,4,26,7,Evening,6,4,Entertainment,8,2,At school,False,False,3
+21283,driver,Facebook,129,11,Jokes/Memes,4,4,46,Morning,8,2,Habit,10,0,At home,True,False,1
+53691,Labor/Worker,YouTube,66,4,Trends,8,18,46,Evening,6,4,Habit,8,2,At home,True,False,1
+21125,Artist,Instagram,49,16,Gaming,7,3,20,Night,3,7,Habit,5,5,At school,True,False,3
+87065,Students,TikTok,137,7,Trends,1,1,32,Night,3,7,Boredom,5,5,Commuting,False,True,2
+46170,Engineer,YouTube,182,11,Gaming,6,17,38,Evening,6,4,Boredom,8,2,At school,False,True,1
+28438,Waiting staff,YouTube,44,1,Life Hacks,8,7,40,Night,3,7,Habit,5,5,At school,False,True,1
+40095,Waiting staff,TikTok,268,7,Comedy,3,16,32,Evening,6,4,Habit,8,2,Commuting,True,False,3
+36154,driver,TikTok,14,12,Entertainment,9,5,26,Night,3,7,Habit,5,5,At home,False,True,2
+28004,driver,Instagram,227,7,Entertainment,2,19,39,Evening,6,4,Procrastination,8,2,At school,False,True,3
+29752,Students,Instagram,20,7,Gaming,6,7,20,Evening,6,4,Habit,8,2,At home,True,False,3
+75426,Manager,YouTube,126,10,Vlogs,1,14,18,Afternoon,5,5,Habit,7,3,At work,False,False,3
+46819,Waiting staff,YouTube,193,16,Trends,2,2,15,Evening,6,4,Boredom,8,2,At school,False,False,1
+44217,Labor/Worker,TikTok,125,8,Life Hacks,5,3,22,Evening,6,4,Habit,8,2,At work,True,False,2
+52994,Students,YouTube,171,9,Jokes/Memes,1,17,22,Evening,6,4,Boredom,8,2,At school,False,True,1
+35036,Artist,YouTube,76,9,Entertainment,8,16,21,Night,3,7,Habit,5,5,At home,False,True,4
+97275,Engineer,TikTok,209,2,Gaming,1,8,2,Evening,6,4,Entertainment,8,2,At home,False,True,2
+69416,Waiting staff,YouTube,40,13,Life Hacks,9,18,40,Morning,8,2,Procrastination,10,0,At home,False,True,3
+29587,Manager,YouTube,84,13,Comedy,3,15,43,Night,3,7,Procrastination,5,5,Commuting,False,False,1
+20645,Manager,Facebook,246,4,Pranks,2,7,18,Night,3,7,Procrastination,5,5,At home,False,True,3
+50930,Students,Instagram,75,12,Trends,1,27,23,Night,3,7,Boredom,5,5,At school,False,True,1
+50090,Students,TikTok,79,17,Life Hacks,9,9,13,Evening,6,4,Entertainment,8,2,At work,False,True,2
+72142,Waiting staff,Facebook,29,2,Vlogs,4,6,41,Afternoon,5,5,Entertainment,7,3,At school,False,False,2
+46475,Students,Instagram,235,13,ASMR,1,18,9,Evening,6,4,Habit,8,2,At school,False,False,3
+38888,Labor/Worker,Instagram,208,18,Life Hacks,1,18,49,Evening,6,4,Boredom,8,2,At home,False,True,2
+63732,Manager,Instagram,48,15,Pranks,7,25,7,Evening,6,4,Boredom,8,2,At work,False,True,1
+66305,Engineer,Facebook,154,8,Entertainment,2,26,41,Night,3,7,Habit,5,5,At work,False,True,3
+66037,Engineer,Facebook,54,15,Trends,7,24,1,Night,3,7,Habit,5,5,At school,False,True,1
+29346,Manager,Instagram,100,1,Gaming,7,14,2,Evening,6,4,Habit,8,2,At home,False,False,2
+20587,Labor/Worker,YouTube,247,10,Life Hacks,9,14,4,Night,3,7,Entertainment,5,5,At home,False,True,2
+32763,Students,YouTube,79,12,Pranks,7,14,14,Night,3,7,Boredom,5,5,At school,True,False,2
+79165,Cashier,Facebook,175,5,Life Hacks,1,25,32,Night,3,7,Entertainment,5,5,At school,False,True,3
+89615,Students,Facebook,139,9,Life Hacks,8,4,36,Night,3,7,Boredom,5,5,At home,False,False,2
+56116,Waiting staff,Facebook,223,8,ASMR,8,4,2,Afternoon,5,5,Entertainment,7,3,Commuting,False,True,1
+45556,driver,Instagram,98,16,Trends,4,15,40,Evening,6,4,Boredom,8,2,Commuting,True,False,2
+79042,Students,YouTube,261,14,Life Hacks,8,15,14,Evening,6,4,Procrastination,8,2,At school,True,False,3
+38099,Teacher,Facebook,81,13,Jokes/Memes,4,18,20,Morning,8,2,Habit,10,0,At home,False,False,1
+65096,Artist,Facebook,174,13,Trends,8,14,25,Night,3,7,Habit,5,5,At work,True,False,2
+91986,Students,TikTok,58,5,Jokes/Memes,5,26,42,Evening,6,4,Habit,8,2,At school,False,True,3
+33230,Waiting staff,Instagram,61,16,Jokes/Memes,4,1,49,Afternoon,5,5,Procrastination,7,3,Commuting,True,False,2
+49009,Waiting staff,TikTok,298,11,Life Hacks,6,10,8,Afternoon,5,5,Entertainment,7,3,At work,False,False,2
+90969,Cashier,YouTube,287,5,Life Hacks,2,29,28,Evening,6,4,Entertainment,8,2,At school,False,False,1
+53866,driver,TikTok,123,13,Life Hacks,2,20,46,Night,3,7,Procrastination,5,5,At school,False,True,2
+96975,driver,TikTok,248,11,ASMR,2,10,21,Night,3,7,Habit,5,5,At home,True,False,2
+61855,Waiting staff,TikTok,142,19,Jokes/Memes,9,10,23,Evening,6,4,Procrastination,8,2,At school,False,True,3
+26416,driver,Instagram,283,3,Life Hacks,3,27,32,Night,3,7,Habit,5,5,At home,False,True,1
+92516,Students,YouTube,175,15,Jokes/Memes,4,24,8,Morning,8,2,Entertainment,10,0,At home,False,True,3
+75915,Students,TikTok,252,7,Life Hacks,8,2,31,Evening,6,4,Habit,8,2,At home,True,False,3
+38058,Students,Instagram,147,7,Jokes/Memes,4,29,37,Afternoon,5,5,Habit,7,3,At school,True,False,3
+96637,Labor/Worker,YouTube,88,6,Trends,7,28,16,Afternoon,5,5,Procrastination,7,3,At work,False,True,3
+60718,Waiting staff,Facebook,179,3,Gaming,5,27,40,Afternoon,5,5,Entertainment,7,3,At home,False,False,2
+52602,driver,TikTok,132,13,Entertainment,9,8,42,Night,3,7,Habit,5,5,At home,True,False,3
+94658,Engineer,YouTube,185,7,Comedy,4,1,27,Evening,6,4,Habit,8,2,At work,True,False,1
+98112,driver,TikTok,91,5,Gaming,3,1,40,Afternoon,5,5,Habit,7,3,At work,False,True,2
+78067,Waiting staff,Facebook,96,18,Pranks,2,4,41,Afternoon,5,5,Procrastination,7,3,At work,True,False,3
+47516,Labor/Worker,YouTube,234,8,Vlogs,1,7,18,Afternoon,5,5,Habit,7,3,Commuting,True,False,2
+21089,Engineer,Instagram,25,17,Life Hacks,6,9,35,Night,3,7,Procrastination,5,5,At home,False,True,2
+57346,Engineer,YouTube,172,1,Life Hacks,2,16,49,Evening,6,4,Boredom,8,2,Commuting,False,True,3
+94663,Labor/Worker,Instagram,107,14,ASMR,8,5,15,Evening,6,4,Habit,8,2,At school,False,True,3
+30487,Waiting staff,YouTube,165,17,Pranks,6,2,27,Evening,6,4,Boredom,8,2,At work,False,True,3
+20155,Artist,Instagram,11,10,Entertainment,5,28,17,Evening,6,4,Habit,8,2,At school,False,True,3
+87494,Students,Facebook,178,12,Pranks,2,23,40,Morning,8,2,Boredom,10,0,At work,False,True,1
+96229,driver,Facebook,101,16,Life Hacks,7,11,2,Evening,6,4,Entertainment,8,2,At school,False,False,2
+58547,Labor/Worker,Facebook,190,14,Entertainment,2,18,49,Morning,8,2,Entertainment,10,0,At school,False,True,2
+48795,Students,YouTube,240,16,Vlogs,5,25,31,Night,3,7,Procrastination,5,5,At work,False,True,1
+75296,driver,Facebook,157,8,Pranks,2,25,37,Afternoon,5,5,Habit,7,3,Commuting,False,True,1
+41447,driver,TikTok,289,10,Jokes/Memes,2,19,41,Evening,6,4,Habit,8,2,At home,False,True,2
+56598,Artist,Facebook,198,17,Vlogs,7,13,41,Night,3,7,Habit,5,5,At school,False,True,1
+61814,Waiting staff,Instagram,137,18,Pranks,9,24,34,Night,3,7,Habit,5,5,At school,True,False,3
+95330,driver,Instagram,16,16,Comedy,5,11,34,Evening,6,4,Boredom,8,2,At home,True,False,3
+83278,Labor/Worker,Instagram,56,17,ASMR,7,20,3,Afternoon,5,5,Entertainment,7,3,At work,False,True,2
+75077,driver,YouTube,62,16,Gaming,4,19,17,Afternoon,5,5,Habit,7,3,At home,False,False,3
+91906,Waiting staff,TikTok,196,19,Pranks,2,17,14,Evening,6,4,Boredom,8,2,At home,False,False,3
+29528,Waiting staff,Facebook,47,8,Comedy,3,5,14,Evening,6,4,Entertainment,8,2,At work,False,True,2
+70100,Labor/Worker,TikTok,235,6,Jokes/Memes,2,13,46,Evening,6,4,Entertainment,8,2,Commuting,True,False,2
+28179,driver,TikTok,62,6,Pranks,5,27,38,Night,3,7,Entertainment,5,5,At school,True,False,1
+68781,Engineer,Instagram,233,9,Trends,6,20,35,Night,3,7,Entertainment,5,5,At home,False,True,2
+75267,Labor/Worker,Instagram,163,4,Vlogs,7,1,1,Afternoon,5,5,Entertainment,7,3,Commuting,False,False,2
+43952,Teacher,Instagram,57,12,Gaming,3,10,48,Night,3,7,Habit,5,5,At home,False,True,3
+73798,Cashier,YouTube,156,12,Vlogs,4,8,29,Evening,6,4,Habit,8,2,At work,False,False,2
+70939,Waiting staff,TikTok,73,17,Pranks,8,24,4,Morning,8,2,Boredom,10,0,At home,True,False,2
+49516,Students,TikTok,191,15,Vlogs,4,29,33,Evening,6,4,Boredom,8,2,At work,True,False,2
+76526,Teacher,YouTube,134,9,Gaming,7,8,17,Evening,6,4,Procrastination,8,2,At home,False,True,3
+30449,Labor/Worker,YouTube,188,7,Trends,6,19,28,Evening,6,4,Boredom,8,2,Commuting,False,True,3
+70290,Students,YouTube,48,10,Entertainment,7,6,26,Afternoon,5,5,Habit,7,3,At work,False,True,3
+92954,Waiting staff,TikTok,269,16,Vlogs,1,12,8,Evening,6,4,Entertainment,8,2,At home,False,True,2
+42746,Students,TikTok,12,12,Vlogs,3,28,34,Evening,6,4,Habit,8,2,At school,False,True,3
+87990,Waiting staff,Instagram,73,7,Jokes/Memes,6,7,18,Night,3,7,Procrastination,5,5,At home,True,False,2
+78810,Students,Instagram,38,18,Pranks,3,16,31,Night,3,7,Habit,5,5,At work,False,True,3
+35223,Labor/Worker,TikTok,20,15,Life Hacks,7,9,27,Afternoon,5,5,Entertainment,7,3,Commuting,True,False,2
+92237,Teacher,Instagram,106,6,ASMR,9,21,16,Evening,6,4,Habit,8,2,At home,True,False,3
+22597,Labor/Worker,YouTube,212,12,Jokes/Memes,3,25,10,Night,3,7,Entertainment,5,5,At work,True,False,2
+85677,Waiting staff,Facebook,30,11,Trends,1,22,40,Evening,6,4,Habit,8,2,At home,False,True,4
+22659,Students,Instagram,48,3,Jokes/Memes,6,10,12,Evening,6,4,Boredom,8,2,At school,False,True,2
+94567,Waiting staff,TikTok,232,2,Jokes/Memes,1,10,22,Afternoon,5,5,Habit,7,3,At work,True,False,1
+35037,Labor/Worker,Instagram,111,6,Life Hacks,1,10,16,Afternoon,5,5,Habit,7,3,At school,False,True,3
+66738,Engineer,Instagram,55,5,Life Hacks,8,20,12,Night,3,7,Entertainment,5,5,At school,True,False,2
+91678,Engineer,Instagram,75,18,Trends,9,29,11,Evening,6,4,Boredom,8,2,Commuting,True,False,3
+32109,Waiting staff,Facebook,100,16,Pranks,2,16,20,Morning,8,2,Boredom,10,0,At work,False,True,3
+42010,Students,YouTube,173,8,Entertainment,9,1,1,Afternoon,5,5,Habit,7,3,Commuting,True,False,3
+28787,Waiting staff,TikTok,120,11,Vlogs,5,17,27,Afternoon,5,5,Entertainment,7,3,At home,True,False,1
+28472,Engineer,Facebook,132,10,Vlogs,8,26,3,Afternoon,5,5,Habit,7,3,At home,False,True,3
+43383,Cashier,TikTok,202,12,Jokes/Memes,7,21,12,Afternoon,5,5,Boredom,7,3,At school,False,True,2
+81709,Waiting staff,TikTok,108,6,Gaming,7,29,30,Evening,6,4,Boredom,8,2,At home,False,False,2
+89785,Artist,TikTok,168,5,Jokes/Memes,4,14,9,Evening,6,4,Boredom,8,2,At work,False,False,2
+54518,Waiting staff,Facebook,112,9,Life Hacks,2,19,37,Night,3,7,Habit,5,5,At school,False,True,2
+73909,driver,YouTube,290,16,Entertainment,5,21,1,Evening,6,4,Habit,8,2,At work,True,False,1
+38351,Students,TikTok,52,14,Trends,3,21,42,Morning,8,2,Entertainment,10,0,At home,False,True,1
+89624,Engineer,YouTube,93,8,Jokes/Memes,9,17,49,Afternoon,5,5,Habit,7,3,At work,True,False,2
+73330,Manager,YouTube,200,19,Jokes/Memes,6,14,4,Morning,8,2,Entertainment,10,0,At home,False,True,3
+35282,driver,Instagram,60,14,Trends,1,8,15,Night,3,7,Habit,5,5,At school,True,False,2
+41778,Manager,Facebook,219,7,Trends,3,21,27,Night,3,7,Habit,5,5,At work,True,False,2
+44264,Students,Facebook,135,5,Jokes/Memes,4,21,8,Night,3,7,Habit,5,5,At home,False,False,2
+79675,Waiting staff,Instagram,78,18,Jokes/Memes,9,9,23,Evening,6,4,Boredom,8,2,At school,True,False,4
+25075,Engineer,Instagram,274,2,Entertainment,6,8,15,Night,3,7,Procrastination,5,5,At home,False,True,3
+95948,Teacher,YouTube,267,11,Gaming,4,13,27,Night,3,7,Entertainment,5,5,At work,True,False,3
+68454,driver,TikTok,197,8,Jokes/Memes,1,17,31,Afternoon,5,5,Boredom,7,3,At school,False,False,3
+48365,Students,Facebook,239,1,Entertainment,8,19,39,Night,3,7,Habit,5,5,At work,False,True,4
+92766,Waiting staff,TikTok,198,12,Entertainment,2,28,47,Afternoon,5,5,Boredom,7,3,At work,False,False,2
+68200,driver,TikTok,19,2,Entertainment,8,7,8,Afternoon,5,5,Entertainment,7,3,At school,False,True,2
+31002,Students,Instagram,123,18,Life Hacks,6,17,30,Morning,8,2,Entertainment,10,0,At school,True,False,2
+33947,Engineer,TikTok,85,7,Gaming,8,1,42,Afternoon,5,5,Entertainment,7,3,At home,False,True,3
+99222,Artist,YouTube,173,17,Comedy,6,5,18,Evening,6,4,Habit,8,2,Commuting,False,True,2
+98610,driver,Instagram,94,14,Trends,5,25,4,Evening,6,4,Habit,8,2,Commuting,False,False,3
+72142,Manager,TikTok,58,7,ASMR,5,6,47,Afternoon,5,5,Entertainment,7,3,At school,False,True,3
+76307,Manager,Instagram,186,3,Gaming,8,26,43,Night,3,7,Habit,5,5,At work,True,False,3
+24493,Students,YouTube,227,6,Gaming,7,2,22,Night,3,7,Entertainment,5,5,At school,False,True,4
+70085,Manager,YouTube,198,2,ASMR,8,27,3,Afternoon,5,5,Boredom,7,3,Commuting,False,True,3
+54228,Students,TikTok,239,17,Gaming,8,25,15,Night,3,7,Habit,5,5,At home,False,True,1
+99676,Students,Instagram,264,12,Jokes/Memes,7,16,35,Afternoon,5,5,Habit,7,3,At work,False,False,2
+71875,driver,TikTok,245,12,Jokes/Memes,2,22,47,Afternoon,5,5,Entertainment,7,3,At school,False,False,1
+51655,Waiting staff,TikTok,35,17,Life Hacks,9,5,38,Afternoon,5,5,Entertainment,7,3,At work,False,True,3
+63472,Students,Instagram,81,10,Vlogs,7,5,33,Afternoon,5,5,Habit,7,3,At work,False,False,2
+69437,Waiting staff,TikTok,270,3,ASMR,6,12,14,Evening,6,4,Entertainment,8,2,At school,True,False,4
+69416,driver,YouTube,263,18,ASMR,9,3,48,Night,3,7,Boredom,5,5,At work,True,False,3
+79711,Teacher,Instagram,280,13,Trends,1,16,1,Afternoon,5,5,Boredom,7,3,Commuting,True,False,3
+26816,Students,Instagram,132,12,ASMR,2,6,49,Night,3,7,Procrastination,5,5,At school,False,True,3
+97175,Labor/Worker,Instagram,153,17,Gaming,1,15,26,Evening,6,4,Entertainment,8,2,At home,False,True,4
+84307,Students,Instagram,266,4,Life Hacks,3,15,8,Night,3,7,Boredom,5,5,At home,True,False,1
+66733,Labor/Worker,TikTok,153,10,Gaming,5,29,16,Evening,6,4,Habit,8,2,At school,False,True,3
+31240,Engineer,TikTok,268,11,Life Hacks,1,16,38,Morning,8,2,Boredom,10,0,At school,False,True,3
+91363,Students,YouTube,56,6,Entertainment,4,20,10,Morning,8,2,Entertainment,10,0,At school,False,False,3
+52762,Cashier,Facebook,22,6,ASMR,8,13,42,Morning,8,2,Habit,10,0,Commuting,True,False,2
+28259,driver,Facebook,217,9,Vlogs,6,12,37,Evening,6,4,Entertainment,8,2,At school,False,True,3
+70139,Labor/Worker,YouTube,244,15,Entertainment,1,10,26,Evening,6,4,Boredom,8,2,At school,True,False,4
+34849,Engineer,Facebook,158,2,ASMR,1,14,28,Night,3,7,Boredom,5,5,At home,True,False,3
+74869,Students,YouTube,164,4,Life Hacks,3,2,12,Evening,6,4,Habit,8,2,At school,False,True,3
+83095,Waiting staff,TikTok,175,5,Comedy,8,29,20,Evening,6,4,Boredom,8,2,At school,False,False,3
+90910,Engineer,Instagram,99,17,Life Hacks,8,3,49,Morning,8,2,Boredom,10,0,At work,True,False,2
+43567,Labor/Worker,Instagram,195,8,Life Hacks,3,9,14,Night,3,7,Entertainment,5,5,At school,False,True,3
+55292,driver,TikTok,183,8,Comedy,7,11,46,Morning,8,2,Habit,10,0,At home,False,True,2
+94813,Students,Instagram,226,12,Entertainment,3,11,35,Evening,6,4,Habit,8,2,At home,False,True,3
+71631,Manager,Instagram,273,8,Jokes/Memes,4,25,29,Afternoon,5,5,Habit,7,3,At work,False,False,1
+29885,Waiting staff,Facebook,106,19,Trends,9,22,12,Night,3,7,Habit,5,5,At work,True,False,2
+79659,Teacher,TikTok,126,3,Trends,4,10,18,Night,3,7,Boredom,5,5,At school,True,False,2
+74306,Labor/Worker,Facebook,208,18,Jokes/Memes,3,26,44,Night,3,7,Boredom,5,5,At home,False,True,3
+86314,Labor/Worker,Facebook,30,19,Entertainment,5,14,2,Evening,6,4,Entertainment,8,2,At home,True,False,3
+85087,Waiting staff,Instagram,209,19,Pranks,7,9,2,Morning,8,2,Habit,10,0,At home,False,False,1
+49165,Labor/Worker,Instagram,257,15,Trends,5,20,17,Night,3,7,Entertainment,5,5,At home,False,True,3
+78929,Waiting staff,TikTok,285,6,Jokes/Memes,4,27,10,Evening,6,4,Boredom,8,2,At school,False,True,4
+87028,Students,Instagram,273,16,Jokes/Memes,8,21,18,Evening,6,4,Habit,8,2,At home,False,True,2
+69812,Students,Instagram,67,8,Trends,4,10,22,Afternoon,5,5,Entertainment,7,3,At work,False,False,3
+70500,Cashier,TikTok,40,16,Jokes/Memes,2,22,19,Evening,6,4,Procrastination,8,2,At home,False,True,4
+99151,Teacher,Instagram,258,18,Jokes/Memes,6,29,1,Morning,8,2,Entertainment,10,0,At school,True,False,2
+78643,Engineer,Facebook,102,16,Trends,2,9,24,Evening,6,4,Boredom,8,2,At work,True,False,2
+64900,Cashier,TikTok,274,11,Entertainment,3,29,36,Afternoon,5,5,Boredom,7,3,At work,False,True,1
+62946,Students,Instagram,280,7,Gaming,1,5,25,Night,3,7,Procrastination,5,5,At home,False,True,2
+27851,Students,YouTube,103,17,Jokes/Memes,5,8,36,Night,3,7,Boredom,5,5,At school,False,True,3
+36288,Students,TikTok,163,17,Jokes/Memes,9,11,31,Night,3,7,Habit,5,5,Commuting,True,False,1
+92692,Labor/Worker,TikTok,294,12,Gaming,2,1,31,Evening,6,4,Entertainment,8,2,At work,False,True,2
+87580,driver,YouTube,89,13,Gaming,7,21,2,Evening,6,4,Entertainment,8,2,At home,False,True,2
+27368,Labor/Worker,Instagram,93,10,Life Hacks,5,10,19,Afternoon,5,5,Habit,7,3,At home,True,False,3
+66403,Students,Instagram,46,7,Entertainment,2,1,12,Evening,6,4,Boredom,8,2,Commuting,False,True,3
+29168,Waiting staff,TikTok,241,14,Pranks,8,26,10,Morning,8,2,Habit,10,0,At home,True,False,2
+69879,Teacher,TikTok,102,1,Gaming,6,22,31,Night,3,7,Boredom,5,5,At school,False,False,4
+79871,Waiting staff,Instagram,111,17,Jokes/Memes,4,7,45,Morning,8,2,Entertainment,10,0,At work,True,False,3
+52174,Labor/Worker,Instagram,175,4,Pranks,4,28,22,Afternoon,5,5,Entertainment,7,3,At school,False,False,3
+26581,Students,Facebook,168,5,Pranks,2,14,23,Night,3,7,Habit,5,5,At school,True,False,3
+91853,driver,TikTok,23,7,Jokes/Memes,3,5,23,Morning,8,2,Habit,10,0,At school,True,False,2
+84046,Waiting staff,TikTok,234,10,Jokes/Memes,7,17,15,Afternoon,5,5,Habit,7,3,At school,False,False,3
+69678,Students,YouTube,82,17,Gaming,3,22,26,Evening,6,4,Habit,8,2,At home,False,True,2
+46649,Labor/Worker,Facebook,258,7,Gaming,5,26,3,Evening,6,4,Entertainment,8,2,At work,False,True,2
+34567,Labor/Worker,Instagram,100,1,Jokes/Memes,6,21,23,Evening,6,4,Habit,8,2,At work,False,True,2
+81944,Students,Facebook,225,7,ASMR,6,6,20,Afternoon,5,5,Habit,7,3,At home,False,True,1
+98002,Students,Instagram,99,11,ASMR,4,16,45,Afternoon,5,5,Entertainment,7,3,At work,True,False,3
+48803,Students,Instagram,38,9,Trends,6,11,40,Evening,6,4,Entertainment,8,2,At school,False,True,4
+38230,driver,Facebook,229,12,Life Hacks,3,10,39,Night,3,7,Habit,5,5,At home,True,False,2
+37862,Students,TikTok,224,3,Entertainment,7,15,8,Night,3,7,Boredom,5,5,At home,False,True,1
+63355,Manager,Instagram,230,4,Gaming,7,7,18,Night,3,7,Procrastination,5,5,At work,False,True,2
+51259,Labor/Worker,Facebook,51,4,ASMR,4,23,41,Night,3,7,Procrastination,5,5,At school,False,True,4
+50795,Labor/Worker,YouTube,144,13,Life Hacks,2,2,6,Evening,6,4,Habit,8,2,At work,False,True,2
+28770,Labor/Worker,Facebook,51,19,Pranks,7,12,27,Evening,6,4,Boredom,8,2,At home,True,False,2
+31093,Labor/Worker,YouTube,173,10,Jokes/Memes,3,19,36,Night,3,7,Boredom,5,5,At home,False,True,2
+66571,Students,Instagram,292,5,Vlogs,1,12,15,Evening,6,4,Boredom,8,2,Commuting,False,True,2
+20193,Manager,Facebook,67,7,Jokes/Memes,2,16,37,Night,3,7,Habit,5,5,At home,False,True,2
+37569,driver,Facebook,34,16,Pranks,9,6,5,Evening,6,4,Boredom,8,2,At home,False,False,3
+31190,Waiting staff,YouTube,82,1,Life Hacks,8,3,39,Night,3,7,Habit,5,5,At home,True,False,3
+82824,Labor/Worker,Facebook,138,12,Entertainment,6,2,9,Night,3,7,Habit,5,5,At home,False,False,1
+62752,Waiting staff,Facebook,96,2,Vlogs,6,20,7,Morning,8,2,Habit,10,0,At home,False,False,3
+52327,Labor/Worker,Instagram,162,7,Gaming,1,5,41,Morning,8,2,Habit,10,0,At home,False,True,2
+62070,Students,Facebook,191,11,Vlogs,2,11,20,Afternoon,5,5,Procrastination,7,3,At home,False,True,2
+60197,driver,TikTok,134,13,Life Hacks,4,26,10,Afternoon,5,5,Boredom,7,3,At work,True,False,2
+22261,Students,YouTube,76,2,Gaming,3,25,26,Afternoon,5,5,Boredom,7,3,At school,True,False,2
+46512,Engineer,Facebook,15,7,Vlogs,1,3,4,Afternoon,5,5,Procrastination,7,3,At home,True,False,2
+26716,Students,YouTube,134,15,Entertainment,8,3,38,Evening,6,4,Boredom,8,2,At home,False,True,3
+48933,Engineer,YouTube,62,11,Pranks,7,22,24,Morning,8,2,Boredom,10,0,At school,False,True,1
+24378,driver,YouTube,75,2,Life Hacks,4,5,14,Evening,6,4,Procrastination,8,2,At home,True,False,2
+60583,Cashier,Facebook,91,7,Entertainment,9,22,41,Night,3,7,Habit,5,5,At work,False,True,4
+49033,driver,Facebook,96,4,Entertainment,4,23,1,Evening,6,4,Boredom,8,2,At work,False,True,3
+44000,Engineer,YouTube,11,11,Jokes/Memes,1,11,17,Night,3,7,Procrastination,5,5,At work,False,False,3
+95868,Waiting staff,TikTok,213,2,Jokes/Memes,1,3,45,Night,3,7,Habit,5,5,At home,False,True,2
+62604,Students,YouTube,159,16,Vlogs,1,13,24,Morning,8,2,Entertainment,10,0,At home,False,True,4
+88336,Waiting staff,TikTok,112,7,Trends,1,21,27,Afternoon,5,5,Entertainment,7,3,At work,False,True,4
+93869,Students,YouTube,33,13,ASMR,4,8,7,Evening,6,4,Habit,8,2,At home,True,False,1
+25410,Waiting staff,Instagram,221,5,Gaming,1,20,9,Morning,8,2,Boredom,10,0,At school,False,True,3
+76044,Manager,YouTube,74,17,ASMR,2,10,43,Night,3,7,Boredom,5,5,Commuting,True,False,1
+83315,Students,YouTube,218,12,ASMR,4,2,35,Evening,6,4,Habit,8,2,At school,True,False,1
+91344,Teacher,Facebook,260,19,Jokes/Memes,7,4,12,Afternoon,5,5,Boredom,7,3,Commuting,False,True,4
+26796,Labor/Worker,TikTok,126,7,Life Hacks,2,18,21,Night,3,7,Habit,5,5,Commuting,False,True,3
+74245,Students,Instagram,125,6,Vlogs,8,19,3,Morning,8,2,Habit,10,0,At school,False,True,3
+63056,Students,TikTok,246,8,Entertainment,7,4,15,Evening,6,4,Boredom,8,2,At school,False,True,4
+37709,Engineer,Instagram,114,13,Gaming,9,20,21,Morning,8,2,Boredom,10,0,Commuting,False,True,3
+78557,Waiting staff,YouTube,268,5,Pranks,6,26,10,Night,3,7,Entertainment,5,5,At home,False,True,3
+37543,Waiting staff,Facebook,55,2,Jokes/Memes,4,9,33,Evening,6,4,Procrastination,8,2,At work,False,True,2
+57418,Waiting staff,Facebook,225,9,Comedy,6,16,46,Evening,6,4,Habit,8,2,At work,False,True,2
+36724,Artist,TikTok,33,11,Pranks,4,26,6,Night,3,7,Boredom,5,5,At school,True,False,3
+23828,Waiting staff,Facebook,44,6,ASMR,7,6,2,Evening,6,4,Habit,8,2,At home,False,True,3
+37087,Engineer,TikTok,33,7,Trends,9,25,29,Evening,6,4,Entertainment,8,2,Commuting,False,True,2
+32605,Teacher,TikTok,37,7,Vlogs,3,4,40,Evening,6,4,Boredom,8,2,At work,False,True,2
+51337,Artist,Instagram,25,19,Pranks,3,9,33,Evening,6,4,Habit,8,2,At work,True,False,2
+25482,Labor/Worker,TikTok,68,6,Trends,2,27,4,Night,3,7,Boredom,5,5,At home,False,True,3
+85333,Students,Instagram,252,11,Comedy,1,13,4,Evening,6,4,Boredom,8,2,At home,True,False,2
+70952,Waiting staff,Facebook,216,11,Gaming,1,9,29,Afternoon,5,5,Habit,7,3,At work,True,False,3
+25463,Students,TikTok,280,7,Comedy,3,6,37,Night,3,7,Entertainment,5,5,At work,False,True,2
+90448,Engineer,TikTok,258,2,Life Hacks,7,21,20,Evening,6,4,Habit,8,2,At home,False,False,2
+24648,Students,YouTube,276,19,Vlogs,9,19,41,Morning,8,2,Boredom,10,0,At home,False,False,2
+53623,Labor/Worker,TikTok,202,4,Trends,2,14,23,Night,3,7,Boredom,5,5,At school,True,False,2
+79156,Students,TikTok,227,6,Pranks,7,21,45,Afternoon,6,4,Entertainment,8,2,At school,True,False,1
+55634,Students,YouTube,124,17,ASMR,1,15,18,Evening,7,3,Habit,9,1,At work,False,True,1
+64602,Cashier,YouTube,77,5,Jokes/Memes,2,3,49,Night,2,8,Entertainment,4,6,At school,False,True,4
+69334,Cashier,Facebook,84,7,Entertainment,6,5,25,Night,2,8,Entertainment,4,6,At work,True,False,3
+88648,Labor/Worker,TikTok,112,9,Vlogs,5,21,1,Evening,7,3,Boredom,9,1,At school,False,True,3
+42054,driver,Facebook,187,1,Pranks,8,18,15,Morning,9,1,Habit,10,0,At work,False,True,2
+90028,Manager,Facebook,224,1,Life Hacks,2,14,34,Evening,7,3,Boredom,9,1,At school,False,True,3
+42207,Students,YouTube,48,19,Life Hacks,1,16,48,Evening,7,3,Boredom,9,1,At school,False,True,4
+41386,Waiting staff,Instagram,268,6,Life Hacks,7,14,20,Night,2,8,Entertainment,4,6,At work,False,True,1
+79518,Labor/Worker,Facebook,213,18,Gaming,6,9,37,Morning,9,1,Entertainment,10,0,At home,True,False,2
+72781,Engineer,Instagram,16,10,Vlogs,8,15,27,Evening,7,3,Boredom,9,1,Commuting,False,True,3
+72780,Labor/Worker,TikTok,58,11,Trends,8,7,22,Night,2,8,Boredom,4,6,At school,False,True,1
+81440,driver,YouTube,35,1,Entertainment,2,14,5,Evening,7,3,Boredom,9,1,At home,True,False,2
+64199,driver,TikTok,170,1,Jokes/Memes,8,6,34,Afternoon,6,4,Habit,8,2,At school,False,False,3
+81035,Waiting staff,TikTok,185,13,Entertainment,6,21,39,Evening,7,3,Boredom,9,1,At work,False,True,1
+28210,driver,YouTube,88,5,Entertainment,9,15,3,Evening,7,3,Entertainment,9,1,At work,False,True,2
+64363,Manager,TikTok,11,1,Vlogs,7,20,17,Evening,7,3,Boredom,9,1,At home,False,True,2
+98279,driver,YouTube,141,3,Entertainment,2,8,24,Night,2,8,Entertainment,4,6,At home,False,True,2
+80348,Labor/Worker,Instagram,285,18,Trends,8,2,24,Afternoon,6,4,Entertainment,8,2,Commuting,False,False,3
+75284,Labor/Worker,TikTok,126,9,Jokes/Memes,9,8,3,Evening,7,3,Boredom,9,1,At school,False,False,2
+92124,Waiting staff,YouTube,173,14,Trends,7,1,45,Evening,7,3,Entertainment,9,1,At home,False,True,3
+88847,Manager,Facebook,297,17,Vlogs,4,26,7,Afternoon,6,4,Boredom,8,2,At work,True,False,2
+42432,Students,TikTok,37,14,Entertainment,9,17,25,Afternoon,6,4,Habit,8,2,At work,False,True,3
+84089,Labor/Worker,Instagram,10,4,Vlogs,4,19,3,Afternoon,6,4,Procrastination,8,2,At home,True,False,1
+75398,Labor/Worker,YouTube,197,5,Life Hacks,4,5,15,Afternoon,6,4,Boredom,8,2,At home,False,True,4
+23321,Labor/Worker,TikTok,65,17,Jokes/Memes,9,22,29,Morning,9,1,Procrastination,10,0,At home,True,False,3
+57383,Engineer,TikTok,44,2,Life Hacks,8,20,29,Afternoon,6,4,Entertainment,8,2,At work,False,True,4
+98682,Labor/Worker,TikTok,121,5,Jokes/Memes,4,16,10,Night,2,8,Habit,4,6,At work,False,True,1
+99190,Waiting staff,Instagram,295,4,ASMR,8,7,32,Evening,7,3,Habit,9,1,At home,True,False,2
+72893,driver,YouTube,45,4,Trends,8,7,23,Afternoon,6,4,Entertainment,8,2,Commuting,True,False,2
+55820,Students,Facebook,226,6,Vlogs,7,18,39,Evening,7,3,Procrastination,9,1,At school,False,True,2
+86262,Manager,Facebook,89,13,Life Hacks,6,18,9,Morning,9,1,Boredom,10,0,At work,True,False,2
+23760,Students,Facebook,92,5,Vlogs,8,2,37,Night,2,8,Entertainment,4,6,At school,False,True,2
+42190,driver,YouTube,74,7,Jokes/Memes,7,15,40,Morning,9,1,Habit,10,0,At home,False,False,3
+87411,Students,Facebook,137,1,Gaming,5,14,14,Night,2,8,Entertainment,4,6,At home,True,False,3
+43377,Labor/Worker,Instagram,31,14,Comedy,4,18,4,Night,2,8,Habit,4,6,At work,False,False,3
+66737,Students,YouTube,225,4,Jokes/Memes,2,29,20,Afternoon,6,4,Habit,8,2,At work,False,True,3
+89569,Manager,TikTok,116,17,Life Hacks,8,9,28,Morning,9,1,Boredom,10,0,Commuting,False,True,3
+58211,Manager,Instagram,118,14,Comedy,9,14,14,Night,2,8,Entertainment,4,6,At home,False,True,2
+23744,driver,TikTok,190,16,Life Hacks,4,5,44,Morning,9,1,Habit,10,0,At school,True,False,2
+44995,driver,Facebook,173,14,Gaming,4,11,34,Afternoon,6,4,Procrastination,8,2,At home,False,True,1
+36977,Students,Instagram,77,16,Entertainment,5,8,13,Evening,7,3,Entertainment,9,1,At home,False,True,3
+54542,driver,YouTube,189,8,Trends,2,5,31,Evening,7,3,Entertainment,9,1,Commuting,True,False,3
+30651,Labor/Worker,Instagram,190,3,Pranks,7,29,33,Night,2,8,Entertainment,4,6,At home,False,False,3
+98931,Labor/Worker,TikTok,178,19,Jokes/Memes,5,11,39,Morning,9,1,Procrastination,10,0,Commuting,True,False,2
+36715,Waiting staff,YouTube,31,1,Life Hacks,6,5,28,Night,2,8,Boredom,4,6,At home,False,True,2
+64409,Artist,Instagram,75,2,Comedy,4,17,25,Afternoon,6,4,Habit,8,2,At home,True,False,3
+44306,Waiting staff,Instagram,30,15,Trends,8,22,32,Evening,7,3,Habit,9,1,At home,False,True,1
+39086,Labor/Worker,Instagram,109,10,Trends,8,4,9,Evening,7,3,Boredom,9,1,At home,True,False,1
+34376,Waiting staff,Instagram,112,18,Life Hacks,5,15,28,Night,2,8,Entertainment,4,6,At work,False,True,4
+81350,Labor/Worker,YouTube,56,14,Life Hacks,6,19,31,Afternoon,6,4,Boredom,8,2,At work,False,False,1
+91425,Waiting staff,TikTok,48,17,Gaming,3,22,17,Evening,7,3,Boredom,9,1,At home,False,True,2
+56636,Students,Instagram,294,13,Pranks,1,2,23,Evening,7,3,Entertainment,9,1,Commuting,True,False,2
+71649,driver,YouTube,99,1,Vlogs,9,24,13,Evening,7,3,Entertainment,9,1,At home,True,False,2
+54610,Students,TikTok,94,5,Jokes/Memes,9,17,10,Evening,7,3,Habit,9,1,At work,False,True,1
+30058,Students,Instagram,282,13,ASMR,3,12,16,Night,2,8,Boredom,4,6,At home,True,False,3
+94637,Students,TikTok,197,14,Entertainment,4,25,6,Night,2,8,Habit,4,6,At home,False,True,3
+98033,Labor/Worker,TikTok,168,3,Gaming,7,24,48,Afternoon,6,4,Procrastination,8,2,At school,False,True,2
+90194,Waiting staff,YouTube,252,15,Jokes/Memes,2,17,11,Night,2,8,Procrastination,4,6,At work,False,True,2
+96917,Engineer,TikTok,82,19,Vlogs,3,10,3,Night,2,8,Entertainment,4,6,At home,True,False,2
+84200,driver,YouTube,58,17,Entertainment,6,28,28,Night,2,8,Entertainment,4,6,At home,True,False,2
+66619,Artist,Instagram,110,3,Gaming,8,25,41,Morning,9,1,Entertainment,10,0,At work,False,True,3
+37154,Waiting staff,TikTok,11,16,Jokes/Memes,1,18,15,Morning,9,1,Boredom,10,0,At home,True,False,3
+39539,driver,TikTok,253,14,Vlogs,4,19,13,Night,2,8,Habit,4,6,At home,False,True,3
+80058,Students,Facebook,185,12,Vlogs,1,18,42,Morning,9,1,Entertainment,10,0,At home,False,False,4
+82068,Students,Instagram,247,12,Jokes/Memes,2,13,45,Evening,7,3,Entertainment,9,1,At home,False,True,3
+97313,Students,Instagram,68,11,Life Hacks,8,14,17,Morning,9,1,Boredom,10,0,At home,False,True,2
+50373,Waiting staff,Facebook,108,17,ASMR,6,24,7,Afternoon,6,4,Boredom,8,2,Commuting,True,False,1
+53154,Manager,Facebook,11,8,Jokes/Memes,9,16,28,Afternoon,6,4,Entertainment,8,2,At school,False,True,1
+26031,Labor/Worker,YouTube,252,17,Jokes/Memes,2,18,38,Evening,7,3,Entertainment,9,1,At work,False,True,3
+91975,Students,YouTube,220,11,Comedy,3,26,13,Evening,7,3,Habit,9,1,At home,True,False,3
+42785,Labor/Worker,TikTok,132,2,Vlogs,9,18,17,Afternoon,6,4,Entertainment,8,2,At work,True,False,2
+98928,Labor/Worker,TikTok,238,10,Pranks,9,16,15,Night,2,8,Procrastination,4,6,At work,False,False,4
+48669,Labor/Worker,TikTok,91,10,Jokes/Memes,6,17,36,Night,2,8,Habit,4,6,Commuting,True,False,4
+22282,Students,TikTok,153,11,Gaming,3,7,28,Afternoon,6,4,Boredom,8,2,At school,False,True,3
+54624,Engineer,YouTube,149,6,ASMR,5,12,15,Morning,9,1,Entertainment,10,0,At work,True,False,2
+68438,Labor/Worker,Instagram,38,4,Vlogs,2,2,46,Night,2,8,Entertainment,4,6,At home,True,False,2
+87534,Labor/Worker,TikTok,279,12,Comedy,7,10,11,Afternoon,6,4,Boredom,8,2,At work,False,False,3
+51705,Students,Instagram,256,11,Entertainment,8,5,31,Evening,7,3,Procrastination,9,1,At home,False,True,4
+58244,Waiting staff,TikTok,21,13,Vlogs,6,21,4,Afternoon,6,4,Habit,8,2,At school,False,True,1
+94964,Waiting staff,Facebook,115,5,Trends,8,3,35,Morning,9,1,Entertainment,10,0,At work,False,True,3
+57437,Students,TikTok,41,6,Gaming,2,19,34,Morning,9,1,Boredom,10,0,At home,True,False,2
+97872,Students,TikTok,83,1,Life Hacks,3,13,27,Afternoon,6,4,Boredom,8,2,At work,False,True,2
+94878,Engineer,TikTok,180,6,Vlogs,7,12,10,Night,2,8,Entertainment,4,6,At school,False,True,2
+92982,Labor/Worker,YouTube,78,18,Life Hacks,1,3,30,Evening,7,3,Entertainment,9,1,At school,False,False,2
+70583,Waiting staff,Facebook,146,9,Trends,7,6,45,Afternoon,6,4,Habit,8,2,At school,True,False,3
+58392,Teacher,TikTok,109,15,Jokes/Memes,6,14,20,Evening,7,3,Entertainment,9,1,At school,False,True,2
+27461,Artist,TikTok,155,8,Jokes/Memes,8,4,29,Afternoon,6,4,Habit,8,2,At home,False,False,2
+30516,Waiting staff,Instagram,18,19,Life Hacks,7,13,29,Morning,9,1,Boredom,10,0,At home,False,True,2
+99285,Students,Facebook,71,16,Life Hacks,4,19,23,Afternoon,6,4,Procrastination,8,2,At work,False,True,3
+37514,Engineer,TikTok,194,6,Trends,3,18,21,Evening,7,3,Habit,9,1,At work,False,False,3
+56268,Artist,Instagram,38,6,Comedy,3,29,48,Night,2,8,Habit,4,6,At school,False,True,1
+56788,Waiting staff,Instagram,123,3,Gaming,4,3,43,Night,2,8,Boredom,4,6,At work,True,False,1
+95749,Artist,YouTube,152,10,Entertainment,9,20,10,Night,2,8,Procrastination,4,6,At school,False,True,4
+81049,Cashier,Instagram,129,1,Pranks,9,6,41,Evening,7,3,Procrastination,9,1,At home,True,False,2
+82493,Labor/Worker,TikTok,179,14,Jokes/Memes,2,16,12,Night,2,8,Entertainment,4,6,At work,False,True,3
+56027,Students,YouTube,166,4,Vlogs,5,20,30,Night,2,8,Entertainment,4,6,At home,True,False,3
+62849,Cashier,YouTube,269,12,Gaming,1,24,33,Night,2,8,Habit,4,6,At home,False,False,2
+37858,Manager,TikTok,91,6,Life Hacks,4,3,18,Night,2,8,Entertainment,4,6,At school,False,True,2
+99003,driver,Facebook,251,11,Trends,2,12,14,Evening,7,3,Procrastination,9,1,At school,True,False,3
+72395,driver,Instagram,181,12,ASMR,8,19,22,Night,2,8,Boredom,4,6,At home,False,True,2
+59758,Students,YouTube,240,10,Life Hacks,4,19,21,Evening,7,3,Boredom,9,1,At work,False,True,3
+74312,Artist,Facebook,217,18,Gaming,5,24,1,Evening,7,3,Boredom,9,1,At school,False,False,2
+88670,Students,TikTok,84,7,Trends,4,4,49,Evening,7,3,Habit,9,1,Commuting,False,True,2
+35434,Waiting staff,Instagram,279,7,Trends,5,1,43,Night,2,8,Habit,4,6,At work,False,True,3
+84047,Waiting staff,Instagram,123,11,Trends,5,2,15,Night,2,8,Boredom,4,6,At school,False,True,3
+67775,Students,YouTube,71,4,Jokes/Memes,5,13,36,Night,2,8,Habit,4,6,At home,False,False,3
+95769,Manager,Instagram,111,1,Pranks,3,26,47,Afternoon,6,4,Habit,8,2,Commuting,False,False,2
+86677,Labor/Worker,Instagram,219,13,Jokes/Memes,7,29,22,Afternoon,6,4,Habit,8,2,At home,True,False,3
+65734,Waiting staff,Instagram,264,18,Comedy,3,13,32,Evening,7,3,Habit,9,1,At school,True,False,3
+60603,Students,Instagram,29,9,ASMR,2,2,46,Evening,7,3,Boredom,9,1,At school,True,False,2
+96708,Manager,TikTok,67,9,Life Hacks,3,19,33,Evening,7,3,Boredom,9,1,At school,False,False,2
+88803,Cashier,Facebook,121,9,Vlogs,3,22,41,Night,3,7,Habit,5,5,At home,False,True,3
+59332,driver,TikTok,205,10,Vlogs,8,24,39,Night,3,7,Procrastination,5,5,At school,False,True,3
+41312,Labor/Worker,TikTok,101,2,ASMR,4,16,23,Afternoon,6,4,Boredom,8,2,At home,False,True,2
+64179,Engineer,YouTube,61,6,Comedy,3,12,43,Night,3,7,Entertainment,5,5,At home,False,True,2
+91442,Teacher,Instagram,17,15,Gaming,5,1,2,Evening,7,3,Procrastination,9,1,At home,False,False,2
+60379,Students,TikTok,107,3,Entertainment,4,9,2,Afternoon,6,4,Boredom,8,2,At home,False,True,2
+37297,Cashier,Instagram,245,11,Jokes/Memes,9,17,38,Evening,7,3,Habit,9,1,At work,False,True,3
+22011,Manager,TikTok,78,6,Jokes/Memes,8,10,29,Evening,7,3,Entertainment,9,1,At work,False,True,3
+64014,Labor/Worker,TikTok,54,3,Entertainment,7,18,46,Evening,7,3,Habit,9,1,Commuting,True,False,3
+31738,Students,YouTube,146,11,Pranks,8,19,3,Evening,7,3,Boredom,9,1,At school,True,False,2
+67498,Cashier,Facebook,243,15,Pranks,5,7,39,Morning,9,1,Habit,10,0,At work,False,True,2
+31120,Waiting staff,Facebook,41,13,Pranks,4,25,7,Night,3,7,Habit,5,5,At work,True,False,2
+28767,Waiting staff,TikTok,298,10,Gaming,7,19,36,Night,3,7,Habit,5,5,At home,False,True,2
+42852,driver,YouTube,135,6,Trends,1,24,29,Afternoon,6,4,Entertainment,8,2,Commuting,False,True,2
+99239,Students,Instagram,76,15,Pranks,6,15,37,Evening,7,3,Procrastination,9,1,At work,False,True,2
+20929,Students,Instagram,39,18,Vlogs,8,9,49,Evening,7,3,Procrastination,9,1,At home,False,True,3
+97487,driver,TikTok,123,18,Comedy,7,10,36,Night,3,7,Habit,5,5,At school,True,False,2
+37438,Teacher,Facebook,213,7,Jokes/Memes,2,23,23,Evening,5,5,Habit,7,3,At home,False,False,3
+68515,Students,YouTube,38,15,Trends,7,20,45,Evening,5,5,Boredom,7,3,At school,False,False,2
+25744,Manager,Facebook,140,18,Vlogs,6,20,16,Evening,5,5,Boredom,7,3,At work,False,True,2
+62417,Students,Instagram,194,18,Jokes/Memes,5,4,48,Night,1,9,Procrastination,3,7,At work,False,False,2
+27069,Students,Facebook,262,9,Life Hacks,4,6,31,Night,1,9,Habit,3,7,At home,False,True,1
+62359,Labor/Worker,Instagram,295,2,Jokes/Memes,1,4,34,Night,1,9,Habit,3,7,At home,True,False,3
+39799,Waiting staff,YouTube,71,8,Jokes/Memes,2,5,1,Evening,5,5,Procrastination,7,3,At home,False,True,2
+90188,Waiting staff,YouTube,12,2,Gaming,7,9,18,Night,1,9,Boredom,3,7,At home,True,False,3
+27597,Cashier,TikTok,77,11,Jokes/Memes,3,12,40,Afternoon,4,6,Boredom,6,4,At school,True,False,2
+67093,Students,TikTok,34,7,Pranks,5,23,43,Night,1,9,Entertainment,3,7,At work,False,True,4
+57226,Teacher,Facebook,188,6,Life Hacks,8,8,15,Afternoon,4,6,Habit,6,4,At school,True,False,2
+92127,Waiting staff,YouTube,150,10,Pranks,8,21,48,Evening,5,5,Habit,7,3,At school,False,True,1
+97362,Labor/Worker,YouTube,240,5,Vlogs,6,5,49,Evening,5,5,Habit,7,3,At work,False,False,3
+46417,Students,TikTok,172,11,Pranks,5,29,17,Evening,5,5,Entertainment,7,3,At work,False,True,2
+38693,driver,Instagram,139,1,Vlogs,2,11,44,Evening,5,5,Boredom,7,3,At home,False,True,2
+99674,driver,Facebook,255,2,ASMR,9,23,10,Night,1,9,Procrastination,3,7,At school,False,True,2
+73161,Teacher,Facebook,181,1,Vlogs,1,11,20,Morning,7,3,Boredom,9,1,At school,False,False,3
+22169,Teacher,TikTok,73,19,Life Hacks,2,13,6,Night,1,9,Habit,3,7,At school,True,False,2
+42052,Cashier,YouTube,40,2,ASMR,1,14,8,Evening,5,5,Habit,7,3,At home,False,True,2
+91849,Labor/Worker,TikTok,56,4,Vlogs,4,28,45,Morning,7,3,Entertainment,9,1,At work,True,False,3
+93851,Students,TikTok,139,12,Gaming,4,8,34,Night,1,9,Habit,3,7,At work,False,True,4
+28036,Labor/Worker,TikTok,119,18,Gaming,5,25,32,Evening,5,5,Entertainment,7,3,At work,True,False,3
+51778,Students,TikTok,78,1,Comedy,5,18,42,Evening,5,5,Habit,7,3,At work,False,True,3
+47734,Waiting staff,Instagram,67,1,Jokes/Memes,8,19,4,Night,1,9,Boredom,3,7,At home,False,True,2
+43173,Labor/Worker,Instagram,115,14,Vlogs,3,12,44,Night,1,9,Boredom,3,7,At home,True,False,3
+50403,Labor/Worker,YouTube,265,4,Life Hacks,6,12,39,Evening,5,5,Habit,7,3,At home,False,True,1
+86321,Cashier,TikTok,180,5,ASMR,3,18,20,Night,1,9,Entertainment,3,7,At work,False,False,3
+91675,Labor/Worker,Instagram,171,11,Gaming,2,10,24,Afternoon,4,6,Boredom,6,4,At home,False,True,2
+26344,Cashier,YouTube,295,13,Gaming,8,7,24,Evening,5,5,Entertainment,7,3,At work,False,True,3
+38800,Labor/Worker,TikTok,80,16,Entertainment,1,28,26,Afternoon,4,6,Entertainment,6,4,At home,False,False,4
+45372,Teacher,Facebook,264,13,Jokes/Memes,9,18,25,Night,1,9,Habit,3,7,At school,False,True,2
+81516,Labor/Worker,Instagram,64,2,Entertainment,7,12,36,Night,1,9,Boredom,3,7,At work,False,True,2
+40538,Students,YouTube,12,16,Comedy,4,14,7,Afternoon,4,6,Boredom,6,4,At work,False,True,4
+83918,Labor/Worker,Facebook,35,6,Pranks,3,15,10,Night,1,9,Entertainment,3,7,At school,True,False,2
+34973,Students,TikTok,135,14,Jokes/Memes,6,16,47,Morning,7,3,Entertainment,9,1,At home,True,False,2
+91155,Cashier,TikTok,62,1,Life Hacks,9,2,12,Morning,7,3,Boredom,9,1,At home,False,True,2
+79500,Students,TikTok,207,17,Life Hacks,9,18,1,Night,1,9,Habit,3,7,At home,False,True,4
+56575,Waiting staff,Instagram,197,11,Vlogs,4,12,25,Evening,5,5,Procrastination,7,3,At school,False,True,2
+62261,Waiting staff,YouTube,195,19,Trends,5,16,16,Night,1,9,Entertainment,3,7,At work,True,False,3
+47716,Waiting staff,Facebook,213,3,Gaming,9,13,5,Evening,5,5,Habit,7,3,At home,False,True,1
+23236,Artist,YouTube,20,11,Entertainment,2,20,19,Evening,5,5,Entertainment,7,3,At home,True,False,4
+35848,driver,Instagram,155,5,ASMR,2,17,4,Morning,7,3,Entertainment,9,1,At work,True,False,2
+22352,Students,YouTube,94,17,Life Hacks,5,18,6,Night,1,9,Entertainment,3,7,At school,False,False,3
+21932,Waiting staff,Instagram,109,7,Jokes/Memes,1,3,26,Night,1,9,Boredom,3,7,At work,False,True,3
+96449,Cashier,TikTok,113,10,Life Hacks,8,23,49,Evening,5,5,Boredom,7,3,At school,False,True,2
+28556,driver,Facebook,55,11,Life Hacks,5,10,39,Afternoon,4,6,Habit,6,4,At work,False,True,2
+25498,Waiting staff,TikTok,53,3,Pranks,2,1,39,Morning,7,3,Entertainment,9,1,At school,False,False,1
+96118,Labor/Worker,YouTube,287,10,Trends,9,6,9,Afternoon,4,6,Entertainment,6,4,At work,False,True,1
+70098,driver,TikTok,190,10,Trends,2,3,45,Afternoon,4,6,Entertainment,6,4,At home,False,True,3
+84386,driver,Facebook,196,14,Gaming,7,19,14,Evening,5,5,Procrastination,7,3,At home,False,True,3
+29569,Students,TikTok,123,12,Entertainment,8,4,48,Night,1,9,Procrastination,3,7,At school,False,True,3
+76882,Labor/Worker,Facebook,264,15,Vlogs,6,29,9,Evening,5,5,Habit,7,3,At work,True,False,2
+90393,Manager,Facebook,39,10,Entertainment,7,20,15,Evening,5,5,Habit,7,3,At home,False,False,2
+20340,Waiting staff,TikTok,273,10,Comedy,1,23,37,Night,1,9,Entertainment,3,7,At home,False,True,4
+63949,Waiting staff,Instagram,107,19,Vlogs,4,3,20,Evening,5,5,Entertainment,7,3,At work,True,False,1
+82443,Labor/Worker,YouTube,124,1,Gaming,7,8,8,Night,1,9,Habit,3,7,At home,False,True,2
+94027,Labor/Worker,Instagram,285,10,Vlogs,1,8,32,Evening,5,5,Entertainment,7,3,At school,False,True,2
+20138,Labor/Worker,Instagram,290,2,Jokes/Memes,1,27,47,Afternoon,4,6,Boredom,6,4,At home,False,True,1
+20358,Cashier,TikTok,284,17,Gaming,6,29,21,Night,1,9,Boredom,3,7,At home,False,True,2
+95250,Waiting staff,YouTube,270,7,Trends,4,7,41,Night,1,9,Boredom,3,7,At school,True,False,4
+50654,Waiting staff,YouTube,216,7,Trends,3,2,19,Evening,5,5,Procrastination,7,3,At work,False,True,1
+45879,Students,Instagram,220,9,Vlogs,5,21,29,Afternoon,4,6,Boredom,6,4,At home,False,True,3
+75778,Artist,TikTok,224,2,ASMR,9,6,31,Evening,5,5,Entertainment,7,3,At home,False,True,1
+57772,Students,YouTube,49,14,Pranks,3,28,6,Afternoon,4,6,Habit,6,4,At home,False,True,3
+78478,Labor/Worker,Instagram,35,17,Entertainment,5,16,4,Morning,7,3,Boredom,9,1,At home,True,False,2
+84353,Engineer,YouTube,36,1,Jokes/Memes,5,10,43,Evening,5,5,Boredom,7,3,At home,True,False,4
+46762,Artist,TikTok,199,9,Entertainment,9,4,29,Morning,7,3,Entertainment,9,1,At home,True,False,3
+33283,Labor/Worker,TikTok,92,19,Gaming,4,13,42,Afternoon,4,6,Habit,6,4,At school,False,True,2
+83922,Labor/Worker,TikTok,179,4,Jokes/Memes,1,10,3,Afternoon,4,6,Entertainment,6,4,At home,False,True,2
+59420,Engineer,YouTube,176,8,Trends,5,21,1,Evening,5,5,Habit,7,3,At school,False,True,2
+75568,Waiting staff,Facebook,197,13,ASMR,1,14,44,Evening,5,5,Habit,7,3,At school,False,True,2
+40219,Waiting staff,YouTube,178,4,ASMR,6,9,15,Evening,5,5,Boredom,7,3,At work,False,True,3
+77169,Waiting staff,Facebook,298,9,Life Hacks,7,11,47,Night,1,9,Habit,3,7,At work,True,False,1
+94965,driver,TikTok,238,9,Trends,1,23,21,Night,1,9,Habit,3,7,At work,True,False,4
+66840,driver,Instagram,106,18,ASMR,4,18,46,Afternoon,4,6,Habit,6,4,At school,False,False,2
+64695,Students,Facebook,25,12,Jokes/Memes,9,11,31,Afternoon,4,6,Procrastination,6,4,At work,False,True,3
+97988,Engineer,TikTok,288,10,Gaming,1,17,7,Evening,5,5,Habit,7,3,At school,False,True,2
+78342,Students,TikTok,144,11,Trends,9,2,17,Evening,5,5,Habit,7,3,At home,True,False,3
+38951,Labor/Worker,Facebook,35,7,Jokes/Memes,8,3,19,Evening,5,5,Boredom,7,3,At home,True,False,2
+21307,Students,Instagram,21,9,ASMR,5,11,39,Evening,5,5,Procrastination,7,3,At work,False,False,3
+55428,Labor/Worker,TikTok,81,6,Jokes/Memes,6,18,3,Afternoon,4,6,Entertainment,6,4,At school,False,True,3
+95774,Waiting staff,Facebook,142,19,Entertainment,7,27,30,Night,1,9,Boredom,3,7,At home,True,False,1
+58975,Students,Instagram,115,16,ASMR,4,3,35,Evening,5,5,Boredom,7,3,At work,False,True,1
+21140,Labor/Worker,Instagram,229,15,Pranks,6,26,29,Night,1,9,Habit,3,7,At school,True,False,2
+44842,Labor/Worker,TikTok,186,7,Life Hacks,7,15,14,Night,1,9,Entertainment,3,7,Commuting,False,True,3
+46421,Cashier,YouTube,291,16,Vlogs,6,11,35,Afternoon,4,6,Entertainment,6,4,At work,False,True,2
+21708,Artist,YouTube,142,5,Vlogs,6,11,28,Evening,5,5,Habit,7,3,At home,False,True,3
+23630,Waiting staff,TikTok,31,16,Jokes/Memes,2,28,30,Night,1,9,Boredom,3,7,Commuting,True,False,3
+39595,Students,Instagram,278,1,Vlogs,5,28,26,Night,1,9,Habit,3,7,At home,False,True,1
+96021,Students,TikTok,170,19,Pranks,3,25,7,Night,1,9,Boredom,3,7,At school,False,False,4
+48308,Labor/Worker,Facebook,116,5,Life Hacks,7,20,39,Afternoon,4,6,Procrastination,6,4,At home,False,True,4
+64789,Students,YouTube,288,7,Gaming,4,28,31,Night,1,9,Boredom,3,7,At home,False,True,3
+75690,Labor/Worker,Facebook,244,19,Pranks,1,25,5,Evening,5,5,Procrastination,7,3,At school,True,False,4
+46086,Labor/Worker,TikTok,27,5,Gaming,6,11,35,Evening,5,5,Procrastination,7,3,At home,False,True,4
+36859,Waiting staff,TikTok,251,17,Vlogs,6,19,47,Night,1,9,Habit,3,7,At work,True,False,2
+27684,Cashier,Instagram,126,8,Life Hacks,7,28,14,Afternoon,4,6,Habit,6,4,At home,False,True,2
+21207,Students,Instagram,295,1,Trends,8,1,36,Night,1,9,Habit,3,7,At school,False,True,2
+66099,Manager,Instagram,291,2,Life Hacks,3,27,27,Evening,5,5,Procrastination,7,3,Commuting,False,True,2
+87496,Students,Facebook,153,15,Jokes/Memes,6,5,24,Afternoon,4,6,Procrastination,6,4,At work,False,True,3
+86093,Students,Instagram,214,18,ASMR,2,10,40,Evening,5,5,Boredom,7,3,At school,False,False,3
+49689,Labor/Worker,TikTok,48,11,Life Hacks,9,10,29,Afternoon,4,6,Entertainment,6,4,At work,False,True,3
+68651,driver,Instagram,163,10,ASMR,2,14,45,Afternoon,4,6,Habit,6,4,At work,True,False,2
+33893,Students,YouTube,185,4,Life Hacks,3,2,22,Night,1,9,Entertainment,3,7,Commuting,False,True,2
+86418,Students,Instagram,250,5,Jokes/Memes,2,4,8,Morning,7,3,Entertainment,9,1,At home,False,True,2
+80011,Waiting staff,Facebook,143,4,Pranks,9,2,15,Night,1,9,Entertainment,3,7,At school,False,True,4
+58635,Students,YouTube,55,13,Vlogs,1,18,49,Night,1,9,Habit,3,7,At school,False,True,3
+76115,Waiting staff,YouTube,59,13,Entertainment,5,13,5,Morning,7,3,Entertainment,9,1,At school,False,True,2
+98405,Waiting staff,YouTube,175,18,Entertainment,1,19,4,Evening,5,5,Habit,7,3,At work,False,True,2
+92702,Students,Facebook,115,2,Gaming,5,5,11,Night,1,9,Habit,3,7,At work,False,True,3
+98518,Labor/Worker,TikTok,225,16,Pranks,8,20,18,Morning,7,3,Procrastination,9,1,At work,False,True,1
+92805,Students,Instagram,155,1,Life Hacks,8,2,42,Night,1,9,Entertainment,3,7,At school,False,True,1
+78954,Teacher,YouTube,81,19,Jokes/Memes,8,11,49,Night,1,9,Boredom,3,7,Commuting,True,False,2
+48064,Artist,YouTube,282,9,Pranks,2,26,30,Morning,7,3,Boredom,9,1,At school,True,False,2
+99063,Manager,YouTube,256,3,Vlogs,8,18,15,Afternoon,4,6,Entertainment,6,4,At work,False,True,2
+22454,Manager,TikTok,195,7,Life Hacks,5,6,6,Night,1,9,Habit,3,7,At home,False,False,2
+40878,Labor/Worker,TikTok,79,10,Life Hacks,1,23,16,Evening,5,5,Habit,7,3,Commuting,True,False,2
+71098,Labor/Worker,Facebook,159,1,Entertainment,7,28,47,Afternoon,4,6,Habit,6,4,At school,False,True,3
+82154,Teacher,TikTok,255,10,ASMR,6,10,40,Morning,7,3,Boredom,9,1,At work,False,True,2
+32991,Students,Instagram,271,9,Entertainment,5,22,9,Evening,5,5,Habit,7,3,At school,False,True,2
+88344,driver,Facebook,35,15,Pranks,1,23,43,Night,1,9,Boredom,3,7,At work,True,False,3
+56593,driver,Facebook,149,15,Jokes/Memes,1,17,34,Evening,5,5,Habit,7,3,At school,False,True,2
+56304,Students,Instagram,108,3,Gaming,6,22,27,Night,1,9,Procrastination,3,7,Commuting,False,True,2
+50386,Waiting staff,Instagram,287,5,Pranks,7,11,13,Evening,5,5,Procrastination,7,3,At home,True,False,3
+75220,Students,Instagram,60,9,ASMR,1,19,36,Evening,5,5,Boredom,7,3,At home,True,False,2
+89338,Students,Facebook,160,9,Life Hacks,9,17,27,Night,1,9,Procrastination,3,7,At home,False,True,3
+41083,Waiting staff,Facebook,113,7,Pranks,4,24,9,Morning,7,3,Boredom,9,1,At work,False,True,3
+38354,Students,Facebook,98,12,Vlogs,5,4,5,Night,1,9,Boredom,3,7,At home,False,False,2
+42190,Waiting staff,Instagram,150,9,Jokes/Memes,2,26,22,Afternoon,4,6,Entertainment,6,4,At home,True,False,2
+26142,Cashier,Instagram,222,6,Life Hacks,8,24,31,Evening,5,5,Boredom,7,3,At home,True,False,3
+48398,Teacher,YouTube,242,2,Life Hacks,2,26,3,Night,1,9,Entertainment,3,7,At work,True,False,3
+71971,Cashier,TikTok,192,9,Gaming,3,14,30,Evening,5,5,Entertainment,7,3,At home,False,False,3
+61862,Artist,YouTube,260,17,Vlogs,9,27,21,Afternoon,4,6,Entertainment,6,4,At work,False,True,3
+73410,Students,Instagram,18,1,Life Hacks,2,20,35,Evening,5,5,Boredom,7,3,Commuting,False,True,3
+39503,Cashier,Facebook,88,19,Gaming,6,4,6,Evening,5,5,Boredom,7,3,At school,True,False,2
+68456,Students,Instagram,61,6,Vlogs,4,28,28,Afternoon,4,6,Procrastination,6,4,At home,True,False,2
+28016,Students,TikTok,278,5,Life Hacks,7,14,32,Night,1,9,Boredom,3,7,At home,False,True,2
+22384,Cashier,YouTube,235,2,Jokes/Memes,6,26,42,Evening,5,5,Entertainment,7,3,At home,False,False,3
+82320,Students,YouTube,60,9,Trends,9,4,37,Night,1,9,Boredom,3,7,At school,False,True,2
+35072,Students,Facebook,195,14,Jokes/Memes,9,6,25,Night,1,9,Habit,3,7,At home,False,True,2
+60510,driver,YouTube,43,4,Vlogs,4,9,32,Evening,5,5,Habit,7,3,At home,False,True,3
+68933,Labor/Worker,YouTube,239,4,Trends,1,21,35,Evening,5,5,Habit,7,3,At school,False,True,3
+41826,Labor/Worker,Instagram,140,15,Entertainment,2,12,22,Evening,5,5,Habit,7,3,At home,True,False,2
+88026,Labor/Worker,YouTube,129,8,Pranks,8,29,24,Night,1,9,Procrastination,3,7,At home,True,False,4
+45518,Artist,YouTube,256,4,Life Hacks,8,26,39,Night,1,9,Boredom,3,7,At home,False,True,3
+44045,Waiting staff,YouTube,201,16,Entertainment,2,8,30,Afternoon,4,6,Procrastination,6,4,At school,False,True,1
+70876,Students,Facebook,219,4,Life Hacks,4,24,32,Evening,5,5,Entertainment,7,3,At home,False,False,2
+71919,Waiting staff,Facebook,112,16,Entertainment,1,4,31,Evening,5,5,Habit,7,3,At work,False,True,1
+47103,Students,Instagram,142,12,Vlogs,7,27,23,Night,1,9,Entertainment,3,7,At home,False,False,4
+56188,Artist,YouTube,148,16,Entertainment,4,26,40,Morning,7,3,Boredom,9,1,At school,True,False,2
+25845,Labor/Worker,Facebook,130,19,ASMR,8,25,33,Evening,5,5,Entertainment,7,3,At home,False,True,1
+56674,driver,Facebook,103,8,Jokes/Memes,9,25,25,Night,1,9,Habit,3,7,At school,True,False,2
+39337,Waiting staff,Instagram,138,6,Vlogs,9,5,36,Morning,7,3,Procrastination,9,1,At home,True,False,3
+42313,driver,TikTok,100,10,Vlogs,3,6,24,Evening,5,5,Boredom,7,3,At school,True,False,4
+46943,Students,YouTube,101,5,Life Hacks,5,5,31,Afternoon,4,6,Entertainment,6,4,At home,False,False,1
+97949,Waiting staff,Facebook,72,18,Trends,6,19,39,Evening,5,5,Entertainment,7,3,Commuting,False,True,3
+20276,Students,Instagram,38,10,Vlogs,6,27,46,Afternoon,4,6,Boredom,6,4,At work,False,True,1
+71151,Labor/Worker,Instagram,219,10,Pranks,8,8,13,Afternoon,4,6,Boredom,6,4,At home,False,False,2
+37611,Cashier,Instagram,21,7,Gaming,6,9,10,Afternoon,4,6,Boredom,6,4,At school,True,False,3
+31944,Artist,Facebook,139,18,Life Hacks,6,15,23,Evening,5,5,Procrastination,7,3,At school,True,False,4
+72887,Students,YouTube,182,1,ASMR,4,4,18,Evening,5,5,Entertainment,7,3,At school,True,False,2
+69847,Cashier,TikTok,217,7,Trends,7,25,32,Night,1,9,Habit,3,7,At home,True,False,2
+78653,Students,YouTube,33,1,Pranks,8,9,33,Afternoon,4,6,Habit,6,4,Commuting,True,False,2
+76622,Waiting staff,Instagram,108,15,ASMR,3,7,36,Afternoon,4,6,Habit,6,4,At home,False,True,2
+47810,Waiting staff,Instagram,148,4,Trends,7,8,28,Afternoon,4,6,Boredom,6,4,At work,False,True,2
+97842,Engineer,TikTok,183,10,Vlogs,3,15,16,Evening,5,5,Boredom,7,3,Commuting,True,False,2
+30503,driver,YouTube,38,9,Pranks,8,19,16,Evening,5,5,Entertainment,7,3,At school,False,False,2
+56976,Waiting staff,Instagram,152,2,Comedy,1,15,18,Morning,7,3,Habit,9,1,At home,False,True,3
+31590,Waiting staff,Instagram,51,14,Trends,1,5,8,Night,1,9,Entertainment,3,7,At home,True,False,3
+30886,Waiting staff,YouTube,217,16,Gaming,6,19,42,Evening,5,5,Boredom,7,3,At home,False,False,3
+32866,Students,Instagram,201,1,Entertainment,9,7,16,Afternoon,4,6,Entertainment,6,4,At work,False,True,3
+86624,Waiting staff,YouTube,169,2,Life Hacks,4,6,11,Evening,5,5,Boredom,7,3,At home,False,False,1
+88899,Students,Instagram,73,7,Gaming,6,27,6,Afternoon,3,7,Boredom,5,5,At home,True,False,2
+52792,Cashier,YouTube,252,10,Gaming,5,19,1,Night,9,1,Habit,10,0,At school,False,True,1
+29764,driver,TikTok,267,1,ASMR,1,25,12,Evening,3,7,Habit,5,5,Commuting,True,False,3
+62727,Students,Instagram,161,13,ASMR,6,28,38,Evening,9,1,Entertainment,10,0,At home,True,False,2
+98471,driver,TikTok,224,1,Entertainment,9,17,28,Afternoon,3,7,Habit,5,5,At home,False,False,1
+28068,Labor/Worker,Instagram,175,5,Life Hacks,3,10,45,Evening,3,7,Habit,5,5,At home,False,True,3
+27295,Students,Instagram,40,16,Trends,3,19,17,Afternoon,8,2,Habit,10,0,At home,True,False,1
+61160,Manager,Facebook,241,15,Life Hacks,2,11,1,Afternoon,6,4,Habit,8,2,At school,True,False,3
+31390,Cashier,YouTube,291,17,Pranks,4,15,32,Evening,8,2,Boredom,10,0,At work,False,True,1
+40131,Cashier,TikTok,38,16,Entertainment,3,10,8,Evening,6,4,Habit,8,2,At home,False,True,2
+95969,Engineer,TikTok,204,13,Pranks,2,11,40,Night,8,2,Boredom,10,0,At work,True,False,3
+35038,Students,TikTok,265,11,Pranks,1,23,43,Morning,8,2,Procrastination,10,0,At school,False,True,3
+72327,Waiting staff,YouTube,290,17,Pranks,3,3,46,Morning,8,2,Boredom,10,0,At school,True,False,2
+97064,Teacher,Facebook,96,17,Entertainment,6,3,24,Evening,6,4,Boredom,8,2,At work,False,True,2
+41281,Cashier,TikTok,158,2,Entertainment,9,18,10,Afternoon,8,2,Boredom,10,0,At work,False,True,2
+74189,Labor/Worker,YouTube,258,13,Gaming,5,25,47,Afternoon,8,2,Entertainment,10,0,At home,False,True,2
+68511,Students,Instagram,292,14,Trends,3,11,39,Night,9,1,Boredom,10,0,At school,False,False,2
+28605,Labor/Worker,TikTok,207,11,Vlogs,5,20,39,Morning,6,4,Entertainment,8,2,At work,False,True,2
+21381,Waiting staff,TikTok,53,10,Vlogs,5,26,10,Morning,6,4,Boredom,8,2,At home,False,True,2
+86634,driver,Facebook,37,3,Vlogs,5,29,36,Afternoon,3,7,Procrastination,5,5,At work,True,False,4
+39810,Waiting staff,TikTok,26,17,Gaming,7,22,25,Evening,8,2,Boredom,10,0,At home,True,False,1
+44322,Teacher,TikTok,136,15,Vlogs,5,18,10,Morning,8,2,Entertainment,10,0,Commuting,True,False,4
+61869,Labor/Worker,Instagram,177,9,Gaming,7,25,19,Evening,6,4,Boredom,8,2,At school,False,False,2
+52955,Students,YouTube,253,10,Comedy,9,15,46,Night,8,2,Habit,10,0,At home,True,False,1
+81388,Students,YouTube,85,8,Entertainment,5,7,45,Evening,3,7,Procrastination,5,5,At home,False,True,1
+30207,Waiting staff,Facebook,240,13,Vlogs,2,10,15,Evening,8,2,Boredom,10,0,At home,True,False,3
+87628,Engineer,Instagram,213,18,Life Hacks,5,21,16,Night,8,2,Entertainment,10,0,At school,False,True,3
+48220,Teacher,YouTube,257,5,Jokes/Memes,8,23,2,Afternoon,9,1,Procrastination,10,0,At school,False,True,3
+94085,Waiting staff,Instagram,223,6,Life Hacks,4,20,29,Night,6,4,Habit,8,2,Commuting,False,True,3
+42031,Teacher,YouTube,224,17,Jokes/Memes,2,29,4,Night,3,7,Habit,5,5,At home,False,True,3
+90721,Cashier,Instagram,167,11,Pranks,3,10,29,Afternoon,8,2,Boredom,10,0,At home,False,True,2
+91312,Students,Facebook,78,16,ASMR,9,13,31,Afternoon,8,2,Habit,10,0,At home,False,True,3
+79766,Labor/Worker,TikTok,94,9,Jokes/Memes,9,15,17,Night,3,7,Boredom,5,5,Commuting,False,True,2
+32449,Artist,Facebook,276,2,Trends,8,23,10,Morning,3,7,Entertainment,5,5,Commuting,True,False,3
+76699,Students,YouTube,78,5,ASMR,8,18,27,Night,6,4,Boredom,8,2,At home,True,False,1
+66092,Students,Facebook,108,1,Vlogs,8,23,41,Evening,3,7,Habit,5,5,At home,False,False,2
+83671,Students,TikTok,225,4,Vlogs,8,4,15,Afternoon,6,4,Habit,8,2,At home,True,False,1
+30350,Students,Facebook,170,4,Jokes/Memes,8,20,44,Afternoon,8,2,Entertainment,10,0,At school,False,False,4
+88487,Labor/Worker,YouTube,103,3,Life Hacks,1,17,31,Evening,8,2,Entertainment,10,0,At work,False,True,1
+37622,Students,YouTube,183,9,Jokes/Memes,6,28,21,Night,9,1,Habit,10,0,At school,False,True,3
+90263,Labor/Worker,Facebook,174,12,Gaming,9,3,41,Night,3,7,Procrastination,5,5,At work,False,True,3
+73117,Waiting staff,TikTok,124,10,Jokes/Memes,8,21,46,Night,8,2,Entertainment,10,0,At work,False,True,2
+78394,Students,Facebook,229,2,Pranks,3,21,45,Evening,8,2,Entertainment,10,0,At school,False,False,4
+43782,Artist,TikTok,40,11,Jokes/Memes,1,2,26,Afternoon,6,4,Habit,8,2,At work,True,False,2
+48454,Cashier,Instagram,20,10,Gaming,2,4,38,Afternoon,3,7,Entertainment,5,5,At school,True,False,2
+87904,Labor/Worker,TikTok,139,6,Pranks,2,1,36,Night,8,2,Habit,10,0,At home,False,True,3
+35592,Labor/Worker,Instagram,114,18,Life Hacks,7,15,17,Morning,6,4,Habit,8,2,At school,False,True,2
+42173,Students,Facebook,36,2,Jokes/Memes,6,25,3,Evening,6,4,Habit,8,2,At work,False,True,2
+53204,driver,TikTok,236,2,Pranks,2,1,14,Evening,8,2,Entertainment,10,0,At home,False,True,1
+55596,Labor/Worker,Instagram,11,10,Gaming,8,6,49,Evening,8,2,Entertainment,10,0,At work,True,False,2
+54324,Students,Instagram,110,16,Trends,9,7,13,Night,6,4,Boredom,8,2,At school,False,False,3
+81202,Waiting staff,Instagram,30,12,Vlogs,7,19,41,Afternoon,8,2,Entertainment,10,0,At home,False,True,3
+50750,Manager,YouTube,67,1,Life Hacks,4,12,27,Evening,3,7,Boredom,5,5,At work,False,True,3
+96112,Students,Facebook,189,8,Jokes/Memes,1,1,1,Night,6,4,Entertainment,8,2,At home,False,True,3
+36566,Waiting staff,Instagram,29,16,Pranks,4,7,17,Morning,6,4,Habit,8,2,At school,False,True,3
+27190,Students,TikTok,264,18,Jokes/Memes,4,19,48,Evening,3,7,Habit,5,5,At work,False,True,2
+58333,Labor/Worker,Instagram,47,13,Jokes/Memes,8,13,34,Night,3,7,Entertainment,5,5,Commuting,False,True,3
+21589,Labor/Worker,YouTube,157,15,Comedy,4,26,14,Evening,6,4,Entertainment,8,2,At school,True,False,2
+45235,Students,Facebook,34,12,Life Hacks,4,12,17,Afternoon,6,4,Boredom,8,2,At home,True,False,2
+20159,Students,YouTube,130,8,Jokes/Memes,2,12,3,Night,8,2,Boredom,10,0,At home,False,False,3
+32145,Waiting staff,YouTube,35,10,Gaming,7,22,34,Night,8,2,Habit,10,0,At work,True,False,3
+51921,Students,YouTube,178,14,ASMR,4,13,40,Morning,6,4,Procrastination,8,2,At home,False,True,3
+36237,driver,TikTok,234,5,Life Hacks,6,28,25,Evening,6,4,Boredom,8,2,At home,False,True,2
+28244,Manager,Facebook,10,18,Jokes/Memes,3,14,2,Afternoon,8,2,Habit,10,0,At work,False,True,2
+34743,Students,Facebook,270,19,Life Hacks,7,22,34,Evening,8,2,Boredom,10,0,At work,False,True,3
+66101,Waiting staff,TikTok,22,15,Entertainment,6,12,26,Night,3,7,Entertainment,5,5,At home,True,False,3
+76378,Labor/Worker,Facebook,57,6,Entertainment,3,20,31,Morning,8,2,Entertainment,10,0,Commuting,True,False,2
+91126,Students,YouTube,103,11,Life Hacks,4,12,9,Evening,6,4,Habit,8,2,At home,True,False,1
+76071,Students,Facebook,270,11,ASMR,5,27,30,Evening,3,7,Boredom,5,5,At home,False,True,3
+91121,Engineer,TikTok,287,18,Jokes/Memes,9,6,20,Afternoon,8,2,Entertainment,10,0,Commuting,True,False,1
+94763,Labor/Worker,YouTube,214,18,Pranks,6,27,21,Evening,3,7,Procrastination,5,5,At home,False,False,2
+32237,Artist,TikTok,194,10,Life Hacks,4,10,29,Evening,3,7,Procrastination,5,5,At work,False,True,2
+35649,Labor/Worker,Instagram,184,2,Gaming,7,20,25,Evening,3,7,Boredom,5,5,At school,False,True,2
+57713,Manager,YouTube,78,9,Pranks,2,29,38,Evening,3,7,Entertainment,5,5,At work,False,True,2
+93463,Waiting staff,YouTube,113,14,Pranks,4,24,44,Evening,6,4,Boredom,8,2,At work,False,True,2
+65409,Labor/Worker,Facebook,255,19,Gaming,5,9,25,Night,8,2,Entertainment,10,0,At school,False,True,2
+68766,driver,YouTube,170,10,Gaming,4,2,9,Evening,3,7,Boredom,5,5,At work,False,False,1
+66154,Waiting staff,TikTok,209,4,Jokes/Memes,4,7,39,Evening,8,2,Habit,10,0,At home,True,False,3
+27016,Labor/Worker,Facebook,225,6,Jokes/Memes,9,9,44,Evening,6,4,Habit,8,2,At work,True,False,1
+99563,Artist,Instagram,221,14,Vlogs,2,25,26,Night,8,2,Boredom,10,0,At school,False,True,1
+68688,Labor/Worker,TikTok,25,4,Jokes/Memes,6,12,37,Afternoon,6,4,Entertainment,8,2,At school,False,True,2
+74238,Labor/Worker,Instagram,214,15,Life Hacks,8,5,16,Morning,3,7,Habit,5,5,At home,True,False,4
+78608,Waiting staff,Instagram,48,16,Jokes/Memes,8,1,37,Night,3,7,Procrastination,5,5,At home,False,True,4
+51897,driver,Instagram,98,7,Trends,7,22,12,Afternoon,3,7,Boredom,5,5,Commuting,True,False,2
+70961,Teacher,YouTube,265,17,Jokes/Memes,4,15,24,Afternoon,3,7,Boredom,5,5,Commuting,True,False,4
+88703,Labor/Worker,TikTok,263,19,Gaming,7,8,26,Night,3,7,Entertainment,5,5,At work,False,True,2
+64757,Waiting staff,TikTok,225,19,Gaming,6,1,20,Afternoon,3,7,Habit,5,5,At school,True,False,2
+46917,Students,YouTube,181,17,Comedy,6,18,9,Evening,6,4,Habit,8,2,At school,False,False,3
+42736,Students,Facebook,146,6,Vlogs,2,13,23,Night,3,7,Boredom,5,5,Commuting,False,True,2
+47990,Waiting staff,Instagram,187,11,ASMR,8,29,39,Evening,3,7,Habit,5,5,At home,False,False,2
+82551,Engineer,TikTok,86,16,Pranks,8,1,29,Evening,3,7,Boredom,5,5,At school,False,False,2
+78161,Labor/Worker,YouTube,197,8,Pranks,7,5,31,Night,8,2,Boredom,10,0,At school,False,True,1
+99623,Labor/Worker,Instagram,24,11,Vlogs,9,18,19,Afternoon,9,1,Habit,10,0,At school,False,False,3
+42440,Waiting staff,Facebook,223,7,Jokes/Memes,8,16,20,Afternoon,8,2,Procrastination,10,0,At home,True,False,1
+55205,Students,Facebook,217,19,Vlogs,9,26,23,Night,6,4,Habit,8,2,Commuting,True,False,2
+75103,Students,Instagram,178,10,Entertainment,9,10,43,Night,3,7,Habit,5,5,At school,True,False,1
+90812,driver,Facebook,289,9,Jokes/Memes,6,4,27,Evening,8,2,Boredom,10,0,At school,False,True,3
+61627,Labor/Worker,TikTok,155,4,Trends,2,1,30,Evening,6,4,Entertainment,8,2,Commuting,False,False,1
+39008,Engineer,TikTok,272,15,Entertainment,7,23,21,Night,3,7,Habit,5,5,At home,False,True,2
+91274,Waiting staff,TikTok,13,13,Gaming,3,8,44,Morning,3,7,Boredom,5,5,At home,True,False,3
+52402,Students,Facebook,99,2,Jokes/Memes,7,5,35,Evening,3,7,Habit,5,5,At work,False,False,3
+73384,Students,TikTok,69,2,Life Hacks,9,2,49,Night,3,7,Habit,5,5,At school,False,False,2
+25793,Teacher,YouTube,25,16,Pranks,2,24,7,Evening,8,2,Habit,10,0,At home,False,True,2
+25571,Manager,TikTok,236,9,Jokes/Memes,6,17,22,Evening,3,7,Boredom,5,5,Commuting,False,True,1
+36209,Students,TikTok,38,13,Jokes/Memes,6,7,10,Morning,3,7,Entertainment,5,5,At home,True,False,2
+63148,Waiting staff,Facebook,160,3,Trends,9,17,23,Afternoon,8,2,Entertainment,10,0,At school,False,True,3
+22224,Students,TikTok,254,9,Life Hacks,9,28,15,Evening,3,7,Habit,5,5,At home,False,True,3
+68695,Engineer,Instagram,279,13,Pranks,5,6,30,Night,3,7,Habit,5,5,At school,False,True,2
+52441,Students,YouTube,88,2,Jokes/Memes,5,29,34,Evening,8,2,Entertainment,10,0,At work,False,True,2
+59129,Waiting staff,Facebook,298,8,Entertainment,9,22,13,Evening,8,2,Entertainment,10,0,At home,True,False,1
+82368,Waiting staff,YouTube,162,9,Jokes/Memes,8,15,4,Morning,8,2,Entertainment,10,0,At school,False,False,1
+64760,Artist,Instagram,286,16,Trends,7,5,18,Night,3,7,Entertainment,5,5,At school,True,False,1
+43478,Labor/Worker,Facebook,288,2,Pranks,8,15,23,Evening,3,7,Habit,5,5,At work,False,False,3
+91854,Waiting staff,Facebook,66,6,Gaming,6,18,33,Afternoon,8,2,Procrastination,10,0,Commuting,False,False,2
+32180,Labor/Worker,TikTok,195,8,Gaming,3,18,34,Morning,8,2,Boredom,10,0,At home,False,True,2
+35372,Students,YouTube,102,5,Life Hacks,7,25,34,Afternoon,8,2,Habit,10,0,At work,False,True,4
+49796,Labor/Worker,Instagram,285,9,Gaming,8,21,36,Afternoon,3,7,Habit,5,5,At school,False,True,3
+78272,Students,Instagram,167,1,Entertainment,8,21,35,Night,3,7,Habit,5,5,At school,False,True,2
+74040,Students,Facebook,284,9,Trends,1,23,17,Morning,3,7,Boredom,5,5,At home,True,False,2
+95357,Labor/Worker,TikTok,190,10,Jokes/Memes,7,6,28,Night,8,2,Procrastination,10,0,At home,False,False,4
+91368,Students,Facebook,86,4,Vlogs,3,2,14,Morning,8,2,Entertainment,10,0,At school,False,True,2
+98356,driver,Facebook,160,3,Gaming,2,27,34,Evening,3,7,Procrastination,5,5,At school,False,True,2
+36211,Students,Facebook,247,10,Vlogs,2,17,48,Evening,8,2,Habit,10,0,At home,False,False,2
+25842,Manager,Facebook,298,15,Life Hacks,8,21,11,Morning,3,7,Habit,5,5,At home,False,True,4
+83115,Engineer,Instagram,240,11,Vlogs,9,4,13,Night,3,7,Procrastination,5,5,At school,False,True,2
+86852,Labor/Worker,Instagram,27,14,Gaming,3,12,33,Night,6,4,Entertainment,8,2,At school,False,True,4
+65968,Students,Facebook,82,6,Entertainment,3,19,2,Afternoon,8,2,Entertainment,10,0,At school,True,False,3
+37508,Students,Facebook,198,12,Vlogs,6,2,34,Evening,8,2,Procrastination,10,0,At school,False,True,4
+42005,Students,TikTok,26,13,Vlogs,1,26,29,Evening,3,7,Entertainment,5,5,At home,False,False,2
+74575,Students,Facebook,28,17,Trends,6,2,37,Night,3,7,Boredom,5,5,At school,False,False,2
+38971,Waiting staff,Instagram,228,16,Entertainment,3,14,4,Evening,6,4,Entertainment,8,2,At work,False,False,3
+45599,Waiting staff,YouTube,129,3,Trends,4,15,12,Night,6,4,Procrastination,8,2,At home,True,False,1
+86914,Waiting staff,Instagram,110,2,ASMR,9,20,26,Night,8,2,Habit,10,0,At home,True,False,2
+87055,Teacher,TikTok,43,11,Vlogs,3,2,28,Night,3,7,Entertainment,5,5,At home,False,True,3
+25355,Artist,Instagram,93,9,Vlogs,1,4,3,Evening,3,7,Entertainment,5,5,At home,True,False,2
+74120,Students,YouTube,205,3,Jokes/Memes,3,19,20,Afternoon,9,1,Habit,10,0,At home,True,False,4
+94619,Manager,Facebook,211,18,Vlogs,7,9,10,Afternoon,6,4,Habit,8,2,At school,True,False,2
+58342,Waiting staff,YouTube,20,15,Gaming,7,7,18,Evening,6,4,Entertainment,8,2,At home,False,True,2
+98860,Waiting staff,Facebook,227,14,Pranks,5,13,27,Night,8,2,Habit,10,0,At home,True,False,2
+22257,Waiting staff,Facebook,262,2,ASMR,1,27,31,Afternoon,8,2,Boredom,10,0,At school,False,True,3
+47364,Waiting staff,Instagram,231,17,ASMR,8,12,27,Evening,3,7,Habit,5,5,At home,False,True,2
+44972,Labor/Worker,Instagram,89,8,Jokes/Memes,8,3,42,Afternoon,9,1,Boredom,10,0,At home,False,True,2
+46654,Waiting staff,Instagram,16,10,Jokes/Memes,2,13,1,Morning,8,2,Boredom,10,0,At home,False,True,2
+49320,Waiting staff,TikTok,281,18,Life Hacks,3,15,6,Night,3,7,Entertainment,5,5,At work,False,False,1
+40808,Engineer,Instagram,236,19,Pranks,4,14,11,Evening,9,1,Procrastination,10,0,Commuting,False,True,4
+72389,Engineer,TikTok,25,8,Trends,1,24,34,Afternoon,8,2,Entertainment,10,0,At school,False,True,2
+54773,Cashier,Instagram,21,8,Gaming,4,9,39,Night,8,2,Boredom,10,0,Commuting,True,False,2
+71168,Labor/Worker,Facebook,250,3,Trends,5,13,20,Evening,6,4,Procrastination,8,2,At school,True,False,1
+47747,Waiting staff,TikTok,30,3,Life Hacks,3,23,21,Afternoon,3,7,Procrastination,5,5,At school,False,False,1
+96396,Waiting staff,YouTube,187,12,ASMR,2,22,21,Morning,8,2,Boredom,10,0,At work,True,False,4
+77505,Teacher,TikTok,237,17,Jokes/Memes,6,4,18,Evening,6,4,Entertainment,8,2,At home,False,False,2
+38135,Labor/Worker,TikTok,282,4,Trends,8,21,21,Evening,3,7,Entertainment,5,5,At work,True,False,4
+67377,Artist,YouTube,297,17,Comedy,7,8,19,Afternoon,6,4,Habit,8,2,At work,False,False,4
+43554,Waiting staff,TikTok,143,14,Jokes/Memes,1,3,4,Afternoon,3,7,Boredom,5,5,At home,True,False,4
+82491,Labor/Worker,Facebook,292,19,Pranks,4,2,13,Night,3,7,Habit,5,5,At home,True,False,4
+75621,Labor/Worker,Instagram,162,9,Life Hacks,3,19,18,Evening,8,2,Entertainment,10,0,At work,True,False,2
+78283,Waiting staff,YouTube,75,12,Pranks,6,28,29,Evening,8,2,Boredom,10,0,At home,True,False,3
+36923,Cashier,Instagram,146,5,Pranks,9,23,25,Night,6,4,Boredom,8,2,At work,True,False,3
+67591,Waiting staff,Facebook,101,11,Life Hacks,9,8,13,Afternoon,6,4,Boredom,8,2,At home,False,True,2
+82261,Manager,YouTube,268,3,Trends,7,17,27,Afternoon,3,7,Habit,5,5,At school,False,True,2
+74336,Students,Instagram,112,15,Life Hacks,9,13,19,Night,8,2,Habit,10,0,At work,False,True,3
+94083,Waiting staff,Instagram,64,14,Jokes/Memes,8,7,49,Afternoon,8,2,Habit,10,0,At school,False,True,3
+80948,Manager,Facebook,266,11,Gaming,5,9,1,Evening,6,4,Habit,8,2,Commuting,False,True,2
+53002,Labor/Worker,Instagram,110,8,Comedy,9,12,38,Evening,8,2,Boredom,10,0,At school,False,False,3
+93016,Manager,Facebook,207,4,Jokes/Memes,7,29,19,Morning,8,2,Habit,7,3,Commuting,False,True,2
+46672,driver,TikTok,235,12,ASMR,5,14,1,Morning,6,4,Habit,8,2,At home,False,False,3
+24213,Cashier,Facebook,246,8,Jokes/Memes,8,14,40,Evening,6,4,Entertainment,8,2,At home,False,True,2
+30293,Students,TikTok,35,6,Life Hacks,7,15,17,Afternoon,6,4,Entertainment,8,2,At school,False,True,2
+75860,Students,YouTube,130,15,Gaming,9,3,21,Morning,3,7,Habit,5,5,At home,True,False,4
+82507,Engineer,Instagram,191,12,Trends,1,15,22,Night,3,7,Habit,5,5,At school,True,False,2
+77134,Engineer,Facebook,208,16,ASMR,9,19,15,Afternoon,8,2,Habit,10,0,At home,True,False,2
+22100,Labor/Worker,Facebook,264,16,Vlogs,7,24,39,Morning,3,7,Habit,5,5,At school,True,False,2
+81997,Artist,Instagram,131,4,Jokes/Memes,1,20,48,Afternoon,8,2,Entertainment,10,0,At home,False,False,2
+48172,Waiting staff,Instagram,40,11,Life Hacks,1,14,39,Evening,9,1,Boredom,10,0,At home,True,False,2
+40132,Artist,YouTube,294,13,Jokes/Memes,5,8,32,Night,8,2,Habit,10,0,At work,False,False,1
+38199,Students,YouTube,115,9,Life Hacks,8,5,49,Night,6,4,Entertainment,8,2,At school,False,True,2
+56609,Waiting staff,Facebook,233,4,Vlogs,9,19,4,Evening,6,4,Entertainment,8,2,At home,False,True,1
+62965,Manager,YouTube,282,12,Life Hacks,6,4,44,Morning,8,2,Boredom,10,0,At school,True,False,3
+28016,Labor/Worker,TikTok,241,9,Trends,8,14,45,Evening,8,2,Entertainment,10,0,At home,True,False,4
+59779,Waiting staff,YouTube,265,13,Vlogs,6,16,32,Night,8,2,Habit,10,0,At school,False,False,2
+51881,Waiting staff,YouTube,33,16,Trends,6,20,4,Evening,8,2,Entertainment,10,0,Commuting,True,False,4
+44472,Students,Facebook,118,6,Entertainment,4,24,1,Evening,3,7,Boredom,5,5,At work,False,False,3
+71813,Labor/Worker,TikTok,200,10,Life Hacks,5,6,33,Evening,8,2,Habit,10,0,At school,True,False,4
+56021,Labor/Worker,YouTube,34,13,Life Hacks,2,23,7,Night,6,4,Habit,8,2,At home,False,True,2
+74131,Waiting staff,TikTok,196,7,Pranks,3,25,9,Afternoon,9,1,Boredom,10,0,At home,False,True,3
+44087,Students,TikTok,297,19,Jokes/Memes,3,6,1,Evening,9,1,Entertainment,10,0,At home,True,False,4
+32828,Waiting staff,TikTok,125,19,Jokes/Memes,5,3,16,Evening,9,1,Habit,10,0,At home,True,False,2
+81610,driver,Instagram,46,17,Pranks,5,15,18,Night,8,2,Entertainment,10,0,At home,False,False,3
+21401,Artist,Instagram,291,13,Entertainment,6,29,47,Evening,8,2,Habit,10,0,At work,False,True,4
+35193,Labor/Worker,Instagram,146,13,Jokes/Memes,5,3,6,Afternoon,8,2,Entertainment,10,0,At home,True,False,2
+64864,Waiting staff,Instagram,236,2,Trends,6,11,2,Evening,6,4,Procrastination,8,2,At home,False,False,3
+40307,Teacher,Facebook,191,10,Life Hacks,8,3,9,Evening,8,2,Entertainment,10,0,At school,True,False,3
+39611,Waiting staff,YouTube,95,13,Life Hacks,2,28,4,Night,8,2,Entertainment,10,0,At work,True,False,3
+63791,driver,Instagram,62,9,Jokes/Memes,4,10,45,Evening,8,2,Procrastination,10,0,Commuting,False,True,1
+31950,Waiting staff,Facebook,244,1,Gaming,6,18,23,Afternoon,3,7,Habit,5,5,At work,False,True,2
+96240,Labor/Worker,YouTube,276,14,Jokes/Memes,5,1,43,Afternoon,9,1,Habit,10,0,At work,False,True,3
+97403,Students,Instagram,296,16,Jokes/Memes,1,16,45,Evening,8,2,Habit,10,0,At home,False,True,4
+22745,Students,YouTube,109,15,Life Hacks,9,16,43,Afternoon,8,2,Habit,10,0,At school,True,False,1
+75243,Labor/Worker,Instagram,96,1,Jokes/Memes,3,27,8,Night,9,1,Boredom,10,0,At school,False,True,3
+23866,Labor/Worker,Facebook,24,17,Pranks,2,10,39,Evening,8,2,Procrastination,10,0,At work,False,False,3
+52245,Students,TikTok,110,13,Gaming,9,1,25,Evening,3,7,Boredom,5,5,Commuting,True,False,2
+64724,driver,TikTok,174,15,Jokes/Memes,7,4,16,Afternoon,3,7,Habit,5,5,At home,False,True,2
+91354,Students,YouTube,38,16,Jokes/Memes,5,3,35,Afternoon,8,2,Procrastination,10,0,At school,False,True,1
+71374,Labor/Worker,Facebook,123,16,Trends,6,5,17,Afternoon,3,7,Habit,5,5,At home,False,True,1
+50116,Labor/Worker,TikTok,116,2,Pranks,4,12,18,Afternoon,8,2,Boredom,10,0,At work,False,True,1
+40447,Waiting staff,Instagram,139,17,Vlogs,1,25,27,Evening,3,7,Habit,5,5,At school,True,False,3
+50431,Labor/Worker,TikTok,93,11,ASMR,4,12,15,Night,8,2,Entertainment,10,0,At school,True,False,2
+37908,Labor/Worker,YouTube,280,8,ASMR,9,13,17,Evening,8,2,Habit,10,0,At home,False,False,3
+49336,Manager,YouTube,253,3,ASMR,1,24,43,Afternoon,6,4,Habit,8,2,Commuting,True,False,3
+60992,Cashier,Facebook,223,12,ASMR,3,12,5,Night,8,2,Boredom,10,0,At work,False,True,2
+75350,Labor/Worker,YouTube,175,16,Life Hacks,5,25,16,Afternoon,8,2,Boredom,10,0,At home,False,False,2
+89561,Manager,TikTok,288,14,Gaming,7,16,15,Evening,8,2,Boredom,10,0,At school,False,True,1
+71955,Cashier,TikTok,68,16,Life Hacks,9,13,42,Evening,3,7,Entertainment,5,5,At home,False,True,3
+81240,Artist,TikTok,99,17,Pranks,6,5,46,Night,8,2,Boredom,10,0,At work,False,True,3
+40093,driver,TikTok,203,11,Pranks,3,24,34,Night,9,1,Habit,10,0,At home,False,True,3
+26155,driver,Facebook,132,17,Trends,7,4,48,Evening,3,7,Boredom,5,5,At school,True,False,3
+66607,driver,Instagram,145,19,Comedy,4,21,19,Night,3,7,Boredom,5,5,At work,True,False,2
+53487,Teacher,Instagram,148,1,Entertainment,3,15,8,Evening,3,7,Habit,5,5,At work,False,True,3
+75668,Cashier,Facebook,238,12,Vlogs,7,12,47,Evening,8,2,Entertainment,10,0,At home,False,True,1
+40963,Cashier,YouTube,283,15,Pranks,7,19,10,Evening,6,4,Entertainment,8,2,Commuting,False,True,1
+70124,Artist,Instagram,59,18,Jokes/Memes,4,21,5,Afternoon,8,2,Habit,10,0,At school,False,True,2
+72870,Labor/Worker,YouTube,127,14,Vlogs,7,28,48,Morning,8,2,Boredom,10,0,At school,False,False,3
+76547,driver,Instagram,211,1,Life Hacks,2,19,26,Evening,8,2,Habit,10,0,At school,False,True,2
+84110,Manager,YouTube,200,13,Life Hacks,1,21,22,Afternoon,3,7,Boredom,5,5,At home,True,False,1
+73554,Students,Facebook,190,15,Pranks,2,11,44,Afternoon,3,7,Procrastination,5,5,At work,False,True,2
+40936,Students,TikTok,87,7,Trends,4,21,23,Afternoon,8,2,Habit,10,0,At school,False,False,1
+24426,Waiting staff,YouTube,84,15,Gaming,8,6,13,Evening,3,7,Boredom,5,5,At home,False,True,3
+47606,Students,TikTok,290,10,Entertainment,3,9,9,Afternoon,3,7,Boredom,5,5,At home,True,False,3
+67832,Students,YouTube,30,14,Gaming,6,1,49,Night,3,7,Entertainment,5,5,Commuting,False,True,1
+48151,driver,YouTube,180,6,ASMR,6,12,20,Night,3,7,Habit,5,5,Commuting,True,False,2
+99303,Students,YouTube,24,14,Life Hacks,9,26,28,Evening,6,4,Habit,8,2,At school,False,True,2
+31308,Waiting staff,YouTube,220,12,Gaming,9,14,44,Morning,8,2,Boredom,8,2,At school,True,False,2
+82522,Students,YouTube,57,11,Entertainment,4,6,37,Night,8,2,Habit,10,0,At home,True,False,2
+65671,Students,TikTok,95,19,Gaming,9,1,24,Night,9,1,Entertainment,10,0,At home,True,False,4
+22204,Artist,YouTube,158,2,Entertainment,6,22,44,Evening,3,7,Boredom,5,5,At work,False,False,4
+51131,driver,TikTok,197,1,Jokes/Memes,2,2,33,Night,8,2,Entertainment,10,0,At home,True,False,1
+72428,Teacher,Facebook,160,8,Jokes/Memes,6,24,20,Night,6,4,Habit,8,2,At school,True,False,1
+53870,Students,Instagram,150,14,Vlogs,2,11,48,Night,6,4,Boredom,8,2,At school,True,False,2
+69067,Engineer,YouTube,78,9,ASMR,8,3,30,Evening,8,2,Boredom,10,0,At school,False,True,1
+78585,Students,Instagram,269,2,Entertainment,4,10,44,Evening,3,7,Habit,5,5,At home,False,True,2
+41607,driver,TikTok,18,5,Pranks,5,6,9,Evening,3,7,Procrastination,5,5,At home,False,True,2
+44968,Waiting staff,Facebook,130,8,Jokes/Memes,8,6,45,Morning,8,2,Habit,10,0,Commuting,True,False,3
+31908,Labor/Worker,Facebook,110,16,Gaming,8,20,49,Evening,3,7,Habit,5,5,At home,True,False,2
+46423,driver,Facebook,158,16,Gaming,6,21,17,Evening,9,1,Boredom,10,0,At school,False,True,2
+94707,Labor/Worker,Instagram,155,13,Life Hacks,4,2,36,Evening,8,2,Boredom,10,0,At work,True,False,4
+98257,Students,TikTok,252,15,Life Hacks,1,26,14,Afternoon,6,4,Boredom,8,2,At home,True,False,1
+81215,Labor/Worker,YouTube,250,1,ASMR,7,26,19,Evening,6,4,Procrastination,8,2,At school,True,False,2
+75835,Students,YouTube,52,3,Gaming,8,24,7,Night,6,4,Habit,8,2,At home,True,False,2
+69429,Students,TikTok,104,6,Trends,9,10,3,Night,3,7,Boredom,5,5,Commuting,True,False,3
+58458,driver,Instagram,235,14,Jokes/Memes,2,23,33,Night,8,2,Boredom,10,0,At work,False,False,3
+66169,Artist,YouTube,15,4,Life Hacks,1,26,44,Evening,6,4,Entertainment,8,2,Commuting,True,False,2
+27659,Labor/Worker,TikTok,223,18,Vlogs,4,6,32,Morning,6,4,Habit,8,2,At school,False,True,3
+80614,Labor/Worker,YouTube,215,15,Trends,5,23,47,Evening,6,4,Boredom,8,2,At work,False,True,2
+97240,Labor/Worker,Facebook,76,9,Jokes/Memes,1,28,11,Afternoon,3,7,Habit,5,5,At home,True,False,4
+52793,Artist,YouTube,109,18,Vlogs,5,17,42,Afternoon,8,2,Boredom,10,0,Commuting,False,False,1
+66473,Teacher,Instagram,21,3,Life Hacks,6,14,2,Night,8,2,Procrastination,10,0,Commuting,False,True,3
+75751,Students,TikTok,246,10,ASMR,3,5,26,Night,8,2,Habit,10,0,Commuting,True,False,1
+98915,Waiting staff,Instagram,267,17,Jokes/Memes,7,23,4,Night,8,2,Procrastination,10,0,Commuting,False,True,2
+74254,Students,TikTok,144,7,Gaming,6,17,17,Afternoon,9,1,Procrastination,10,0,At work,False,True,1
+27006,Waiting staff,Facebook,231,15,Life Hacks,4,2,17,Night,8,2,Boredom,10,0,At home,True,False,2
+94218,Waiting staff,TikTok,165,1,Pranks,3,9,28,Night,9,1,Procrastination,10,0,Commuting,False,True,2
+85344,Students,YouTube,151,11,Life Hacks,5,12,30,Night,3,7,Procrastination,5,5,At work,False,True,4
+53840,driver,YouTube,167,17,Pranks,3,19,40,Evening,6,4,Procrastination,8,2,At home,False,True,1
